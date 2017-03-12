@@ -1,24 +1,37 @@
 +++
-title = "SpaceX ITS Earth Departure"
+title = "F9R-Dev2D"
 
-categories = ["infographic"]
+categories = ["web", "game"]
 
-date = "2016-12-15T20:57:46-08:00"
+date = "2014-07-17"
 
-tags = ["ITS"]
+tags = ["Falcon 9", "VTVL", "F9R-Dev2D"]
 
-[infographic]
-category = "SpaceX Interplanetary Transportation System"
-name = "Earth Departure"
-
-company = "SpaceX"
-vehicle = "ITS"
-
-type = "trajectory"
-file = "spacex-its-earth-departure"
+[project]
+url = "http://zlsa.github.io/f9r-dev2d/"
+code = "https://github.com/zlsa/f9r-dev2d"
 +++
 
-This is the path the SpaceX ITS will take when it departs from Earth
-for its #JourneyToMars.
+F9R-Dev2D is a simplistic Falcon 9 landing game. It was originally
+created as a programming-exercise-slash-fun-toy, and as a result, the
+code could be far cleaner than it currently is.
+
+To fly, use the arrow keys (or `A`/`D` for pitch and `Shift`/`Ctrl`
+for throttle); `X` and `Z` throttle to zero and full throttle,
+respectively. If the pitch direction feels backwards, toggle "flip
+left-right".
 
 <!--more-->
+
+# Autopilot
+
+The autopilot is designed only to land the Falcon 9 in either the `f9r
+rtls` or `f9r rtls extreme` scenarios and with "hard mode" enabled. 
+
+# Hard mode
+
+The "hard mode" option simply reduces your gimbal range to realistic
+levels and remaps the thrust from `0..1` to approximately `0.4..1`,
+preventing unrealistically low throttle levels. It also tightens up
+what's a "failed landing", so hard landings at twenty degrees of tilt
+will count as a failure.
