@@ -1,16 +1,19 @@
 #!/bin/bash
 
 if [[ $# -ne 1 ]] ; then
-    echo 'not enough arguments (process-infographic.sh infographic-path.png)'
+    echo 'not enough arguments (process-infographic.sh type/name.svg)'
     exit 1
 fi
 
-input_filename=$1
-output_filename=${input_filename%.png}.jpg
-
-echo $input_filename
-echo $output_filename
+input_svg=../infographic/$1
+output_png_2x=../static/infographic/${1%.svg}.png
+output_jpg_small=../static/infographic/${1%.svg}.jpg
 
 width=1024
 
-convert $input_filename -resize $width $output_filename
+echo $input_svg
+echo $output_png_2x
+
+inkscape $input_svg --export-png=$output_png_2x --export-dpi=192 > /dev/null
+
+convert $output_png_2x -resize $width $output_jpg_small

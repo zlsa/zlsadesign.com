@@ -21,6 +21,8 @@ file = "operations/spacex-its-earth-departure"
 This is an overview of the operations the [SpaceX ITS](/tags/spacex-its/) will take when it
 departs from Earth for its [#JourneyToMars](/tags/mars/).
 
+<!--more-->
+
 1. Passengers launch aboard the Mars spacecraft.
 2. Once the Mars spacecraft is in orbit, multiple tankers are sent
    into orbit to refuel the Mars-bound spacecraft. (Elon said they
@@ -29,9 +31,8 @@ departs from Earth for its [#JourneyToMars](/tags/mars/).
    propellant tankers launch on the same reusable booster as the Mars
    spacecraft, and the tankers themselves will land at the launch site
    for rapid reuse.
-<!--more-->
 3. As soon as all the necessary propellant has been transferred, the
-   Mars spacecraft will perform its [TMI burn](/term/acronym/tmi).
+   Mars spacecraft will perform its [TMI burn](/term/tmi).
 4. The Mars spacecraft (and its passengers or cargo) spend the next
    few months in interplanetary space.
 

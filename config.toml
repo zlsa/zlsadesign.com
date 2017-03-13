@@ -5,3 +5,4 @@ theme = "zlsadesign"
 pluralizelisttitles = true
 paginate = 15
 preserveTaxonomyNames = true
+canonifyURLs = true
