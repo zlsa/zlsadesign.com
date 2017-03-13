@@ -1,23 +1,32 @@
 +++
+
 title = "test post please ignore"
-date = "2016-12-15T20:09:07-08:00"
+
+date = "2017-03-12T18:37:00-08:00"
+
 categories = ["Meta"]
+
 +++
 
-I've been informed that all of the "cool kids" nowadays have blogs (or
-blags), and I want to get in on it. At the same time, I want to avoid
-uttering the dreaded words "Welcome to my blog!" because that is
-basically a guarantee that your blog will never, ever be updated. (Or
-looked at.)
+So, this is my new website. It's taken a while to get it online; I've
+wanted to place my disparate, one-off websites under one
+(good-looking) roof for years, and it's finally coming together.
 
-Anyway, I suppose the first post in a blog is generally the
-introduction. I'm Jon Ross, and I make
-[infographics](http://zlsa.github.io/infographics/),
-[renders of rockets](/img/post/spacex/fh-launch.jpg) and
-[spacecraft](/img/post/spacex/red-dragon-landing.jpg), and
-[software](http://github.com/zlsa/). This blog will probably consist
-of mostly technical material, interspersed with infographics and/or
-renders.
+
 
 <!--more-->
+
+# Technical details
+
+This website is statically generated with
+[Hugo](http://gohugo.io/). It's using a custom theme, built from
+scratch _(with <3)_ to conform to my own standards. No, it's not a
+Material Design blog with ripples and floating action buttons
+everywhere; nor is it a "minimal" website featuring only two colors:
+black and white.
+
+This website is fully responsive, and it will look great on all
+devices, regardless of size. All the information is present on all
+display sizes; none of this "eh, nobody _really_ wants to see
+<whatever> on a phone" business.
 
