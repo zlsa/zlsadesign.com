@@ -11,8 +11,9 @@ tags = ["autogyro", "android", "material design", "orientation"]
 name = "Autogyro"
 
 [app.android]
-#id = "com.zlsadesign.autogyro"
-url = "https://zlsa.github.io/autogyro/"
+id = "com.zlsadesign.autogyro"
+play = false
+url = "https://github.com/zlsa/autogyro/releases"
 code = "https://github.com/zlsa/autogyro"
 +++
 

@@ -12,6 +12,7 @@ name = "Stackulator"
 
 [app.android]
 id = "com.zlsadesign.stackulator"
+play = true
 code = "https://github.com/zlsa/stackulator"
 +++
 
