@@ -3,6 +3,6 @@ title = "ZLSA Design"
 baseurl = "http://zlsadesign.com/"
 theme = "zlsadesign"
 pluralizelisttitles = true
-paginate = 15
+paginate = 10
 preserveTaxonomyNames = true
 canonifyURLs = true

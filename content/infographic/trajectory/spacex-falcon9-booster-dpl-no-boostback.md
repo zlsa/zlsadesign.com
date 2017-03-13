@@ -6,7 +6,7 @@ author = "Jon Ross"
 
 date = "2016-08-27"
 
-tags = ["trajectory", "spacex-falcon9", "spacex-droneship"]
+tags = ["spacex", "spacex-falcon9", "spacex-asds", "trajectory", "ocean-landing"]
 
 [infographic]
 category = "SpaceX Falcon 9"
@@ -21,7 +21,7 @@ file = "trajectory/spacex-falcon9-booster-dpl-no-boostback"
 This is the approximate trajectory of the
 [SpaceX Falcon 9](/tags/spacex-falcon9) booster during a downrange
 propulsive landing (i.e. ocean landing) on the
-[ASDS](/tags/spacex-droneship).
+[ASDS](/tags/spacex-asds).
 
 Note that this is the trajectory of a booster during a
 high-performance mission, and does not include a [boostback burn]({{<
