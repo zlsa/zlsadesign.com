@@ -2,5 +2,5 @@
 title = "Infographics"
 
 [hero]
-background = "/background/infographics.jpg"
+#background = "/background/infographics.jpg"
 +++
