@@ -1,6 +1,6 @@
 +++
 title = "ZLSA Design"
-date = "2017-03-12 00:00"
+date = "2017-03-12"
 categories = ["Core"]
 
 [hero]
