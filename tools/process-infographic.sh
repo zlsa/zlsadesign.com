@@ -16,6 +16,8 @@ height=576
 
 echo "processing " $input_svg
 
+mkdir -p -- "${output_png_2x%/*}"
+
 inkscape $input_svg --export-png=$output_png_2x --export-dpi=192 > /dev/null
 
 convert $output_png_2x -resize $width $output_jpg_small
