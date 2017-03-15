@@ -6,7 +6,7 @@ author = "Jon Ross"
 
 date = "2016-10-30T23:57:30.165690Z"
 
-tags = ["vehicle", "scale", "spacex-its", "statue-of-liberty"]
+tags = ["vehicle", "scale", "spacex", "spacex-its", "statue-of-liberty"]
 
 [infographic]
 category = "SpaceX ITS"

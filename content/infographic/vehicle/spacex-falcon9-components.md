@@ -6,7 +6,7 @@ author = "Jon Ross"
 
 date = "2016-06-16T22:20:29.099537Z"
 
-tags = ["vehicle", "components", "spacex-falcon9", "launch-vehicle"]
+tags = ["vehicle", "components", "spacex", "spacex-falcon9", "launch-vehicle"]
 
 [infographic]
 category = "SpaceX Falcon 9"

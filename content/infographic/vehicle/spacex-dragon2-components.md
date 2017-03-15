@@ -6,14 +6,11 @@ author = "Jon Ross"
 
 date = "2016-06-18T16:47:50.008599Z"
 
-tags = ["vehicle", "components", "spacex-dragon2", "spacecraft"]
+tags = ["vehicle", "components", "spacex", "spacex-dragon2", "spacecraft"]
 
 [infographic]
 category = "SpaceX Dragon 2"
 name = "Components"
-
-company = "SpaceX"
-vehicle = "Dragon 2"
 
 file = "vehicle/spacex-dragon2-components"
 +++

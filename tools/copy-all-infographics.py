@@ -6,12 +6,14 @@ import datetime
 
 times = []
 
-for filename in glob.iglob('/home/zlsa/projects/online/infographics/data/images/**/*.svg', recursive=True):
+#for filename in glob.iglob('/home/zlsa/projects/online/infographics/data/images/**/*.svg', recursive=True):
+for filename in glob.iglob('../infographic/**/*.svg', recursive=True):
 
   dt = datetime.datetime.utcfromtimestamp(os.path.getmtime(filename))
   iso_format = dt.isoformat() + 'Z'
 
-  new_filename = filename.replace('/home/zlsa/projects/online/infographics/data/images/', '');
+  #new_filename = filename.replace('/home/zlsa/projects/online/infographics/data/images/', '');
+  new_filename = filename.replace('../infographic/', '');
   times.append((new_filename, iso_format))
 
   continue

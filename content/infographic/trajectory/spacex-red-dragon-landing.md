@@ -6,7 +6,7 @@ author = "Jon Ross"
 
 date = "2016-05-03"
 
-tags = ["trajectory", "spacex-red-dragon", "mars", "hoverslam"]
+tags = ["trajectory", "spacex", "spacex-red-dragon", "mars", "hoverslam"]
 
 [infographic]
 category = "SpaceX Red Dragon"

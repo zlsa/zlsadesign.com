@@ -6,14 +6,11 @@ author = "Jon Ross"
 
 date = "2016-12-15T20:57:46-08:00"
 
-tags = ["operations", "spacex-its", "launch"]
+tags = ["components", "spacex", "spacex-its", "spacex-its-mars-lander"]
 
 [infographic]
 category = "SpaceX Interplanetary Transportation System"
 name = "Lander Components"
-
-company = "SpaceX"
-vehicle = "ITS"
 
 file = "vehicle/spacex-its-lander-components"
 +++

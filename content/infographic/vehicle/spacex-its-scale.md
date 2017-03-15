@@ -12,9 +12,6 @@ tags = ["vehicle", "scale", "spacex-falcon9", "statue-of-liberty"]
 category = "SpaceX Falcon 9"
 name = "Scale"
 
-company = "SpaceX"
-vehicle = "Falcon 9"
-
 file = "vehicle/spacex-falcon9-scale"
 +++
 
