@@ -12,6 +12,7 @@ tags = ["vehicle", "components", "overview", "ula", "ula-vulcan", "ula-aces", "u
 category = "ULA Vulcan"
 name = "Overview"
 
+aspect = "tall"
 file = "vehicle/ula-vulcan-overview"
 +++
 

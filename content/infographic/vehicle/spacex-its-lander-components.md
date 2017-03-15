@@ -12,6 +12,7 @@ tags = ["components", "spacex", "spacex-its", "spacex-its-mars-lander"]
 category = "SpaceX Interplanetary Transportation System"
 name = "Lander Components"
 
+aspect = "tall"
 file = "vehicle/spacex-its-lander-components"
 +++
 

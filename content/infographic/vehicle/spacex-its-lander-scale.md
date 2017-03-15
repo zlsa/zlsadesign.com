@@ -12,6 +12,7 @@ tags = ["vehicle", "scale", "spacex", "spacex-its", "statue-of-liberty"]
 category = "SpaceX ITS"
 name = "Mars Lander Scale"
 
+aspect = "tall"
 file = "vehicle/spacex-its-lander-scale"
 +++
 

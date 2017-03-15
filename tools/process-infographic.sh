@@ -9,10 +9,17 @@ input_svg=../infographic/$1
 output_png_2x=../static/infographic/${1%.svg}.png
 
 output_jpg_cropped=../static/infographic/${1%.svg}-cropped.jpg
-output_jpg_small=../static/infographic/${1%.svg}.jpg
+output_jpg_small_wide=../static/infographic/${1%.svg}-wide.jpg
+output_jpg_small_tall=../static/infographic/${1%.svg}-tall.jpg
 
-width=1024
-height=576
+crop_width=1024
+crop_height=576
+
+wide_width=1820
+wide_height=1024
+
+tall_width=1024
+tall_height=1820
 
 echo "processing " $input_svg
 
@@ -20,6 +27,8 @@ mkdir -p -- "${output_png_2x%/*}"
 
 inkscape $input_svg --export-png=$output_png_2x --export-dpi=192 > /dev/null
 
-convert $output_png_2x -resize $width $output_jpg_small
-convert $output_png_2x -resize $width -geometry ${width}x${height}^ -gravity north -crop ${width}x${height}+0+0 $output_jpg_cropped
+convert $output_png_2x -resize $wide_width $output_jpg_small_wide
+convert $output_png_2x -resize $tall_width $output_jpg_small_tall
+
+convert $output_png_2x -resize $crop_width -geometry ${crop_width}x${crop_height}^ -gravity north -crop ${crop_width}x${crop_height}+0+0 $output_jpg_cropped
 

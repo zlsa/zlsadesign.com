@@ -6,12 +6,13 @@ author = "Jon Ross"
 
 date = "2016-10-25T22:39:07.647157Z"
 
-tags = ["trajectory", "spacex", "spacex-its", "landing", "mars"]
+tags = ["trajectory", "spacex", "spacex-its", "landing", "mars", "edl"]
 
 [infographic]
 category = "SpaceX ITS"
 name = "Mars Entry, Descent, and Landing"
 
+aspect = "wide"
 file = "trajectory/spacex-its-lander-mars-edl"
 +++
 

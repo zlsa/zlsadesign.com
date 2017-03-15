@@ -12,6 +12,7 @@ tags = ["vehicle", "components", "engine", "spacex", "spacex-its", "spacex-its-m
 category = "SpaceX Interplanetary Transportation System"
 name = "Mars Lander Engine Layout"
 
+aspect = "wide"
 file = "vehicle/spacex-its-lander-engine-layout"
 +++
 

@@ -12,6 +12,7 @@ tags = ["vehicle", "transport", "spacex", "spacex-falcon9", "spacex-falcon9-boos
 category = "SpaceX Falcon 9"
 name = "Transport"
 
+aspect = "wide"
 file = "vehicle/spacex-falcon9-transport"
 +++
 

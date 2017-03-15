@@ -12,9 +12,7 @@ tags = ["operations", "spacex-its", "launch"]
 category = "SpaceX Interplanetary Transportation System"
 name = "Earth Departure"
 
-company = "SpaceX"
-vehicle = "ITS"
-
+aspect = "wide"
 file = "operations/spacex-its-earth-departure"
 +++
 

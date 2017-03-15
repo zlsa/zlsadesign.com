@@ -12,6 +12,7 @@ tags = ["trajectory", "ula", "ula-vulcan", "ula-smart", "hiad", "reuse"]
 category = "ULA SMART Reuse"
 name = "Trajectory and Components"
 
+aspect = "wide"
 file = "trajectory/ula-smart"
 +++
 

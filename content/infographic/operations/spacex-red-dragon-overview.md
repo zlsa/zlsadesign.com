@@ -12,9 +12,7 @@ tags = ["operations", "spacex-red-dragon", "mars", "spacex-falcon-heavy"]
 category = "SpaceX Red Dragon"
 name = "Overview"
 
-company = "SpaceX"
-vehicle = "Red Dragon"
-
+aspect = "wide"
 file = "operations/spacex-red-dragon-overview"
 +++
 

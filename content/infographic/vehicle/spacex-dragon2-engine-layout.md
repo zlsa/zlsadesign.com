@@ -12,6 +12,7 @@ tags = ["vehicle", "components", "spacex", "spacex-dragon2", "spacecraft"]
 category = "SpaceX Dragon 2"
 name = "Engine Layout"
 
+aspect = "wide"
 file = "vehicle/spacex-dragon2-engine-layout"
 +++
 

@@ -12,9 +12,7 @@ tags = ["vehicle", "manufacturing", "spacex", "spacex-falcon9", "spacex-merlin"]
 category = "SpaceX Falcon 9"
 name = "Hawthorne to Launch"
 
-company = "SpaceX"
-vehicle = "Falcon 9"
-
+aspect = "wide"
 file = "vehicle/spacex-falcon9-hawthorne-to-launch"
 +++
 

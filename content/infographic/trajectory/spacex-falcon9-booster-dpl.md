@@ -6,15 +6,13 @@ author = "Jon Ross"
 
 date = "2016-05-03"
 
-tags = ["spacex", "spacex-falcon9", "spacex-asds", "boostback-burn", "trajectory", "ocean-landing"]
+tags = ["spacex", "spacex-falcon9", "spacex-asds", "boostback-burn", "trajectory", "edl", "ocean-landing"]
 
 [infographic]
 category = "SpaceX Falcon 9"
 name = "Downrange Propulsive Landing"
 
-company = "SpaceX"
-vehicle = "Falcon 9"
-
+aspect = "wide"
 file = "trajectory/spacex-falcon9-booster-dpl"
 +++
 

@@ -12,6 +12,7 @@ tags = ["trajectory", "spacex", "spacex-falcon9", "landing", "hoverslam"]
 category = "SpaceX Falcon 9"
 name = "Booster Hoverslam"
 
+aspect = "wide"
 file = "trajectory/spacex-falcon9-booster-hoverslam"
 +++
 

@@ -12,6 +12,7 @@ tags = ["vehicle", "components", "spacex", "spacex-dragon2", "spacecraft"]
 category = "SpaceX Dragon 2"
 name = "Components"
 
+aspect = "wide"
 file = "vehicle/spacex-dragon2-components"
 +++
 

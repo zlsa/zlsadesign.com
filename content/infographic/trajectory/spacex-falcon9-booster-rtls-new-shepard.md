@@ -6,12 +6,13 @@ author = "Jon Ross"
 
 date = "2016-12-16T18:33:54.647672Z"
 
-tags = ["trajectory", "spacex", "spacex-falcon9", "rtls", "blue-origin-new-shepard"]
+tags = ["trajectory", "spacex", "spacex-falcon9", "rtls", "edl", "blue-origin-new-shepard"]
 
 [infographic]
 category = "SpaceX Falcon 9 Booster Trajectory"
 name = "Compared to Blue Origin's New Shepard"
 
+aspect = "wide"
 file = "trajectory/spacex-falcon9-booster-rtls-new-shepard"
 +++
 

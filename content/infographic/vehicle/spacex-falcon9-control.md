@@ -12,9 +12,7 @@ tags = ["vehicle", "control", "spacex", "spacex-falcon9", "grid-fins"]
 category = "SpaceX Falcon 9"
 name = "Control"
 
-company = "SpaceX"
-vehicle = "Falcon 9"
-
+aspect = "wide"
 file = "vehicle/spacex-falcon9-control"
 +++
 

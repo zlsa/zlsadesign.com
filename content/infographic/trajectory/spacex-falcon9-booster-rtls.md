@@ -6,15 +6,13 @@ author = "Jon Ross"
 
 date = "2016-06-16 15:18:10"
 
-tags = ["spacex", "spacex-falcon9", "trajectory", "rtls", "boostback-burn", "land-landing"]
+tags = ["spacex", "spacex-falcon9", "trajectory", "rtls", "boostback-burn", "edl", "land-landing"]
 
 [infographic]
 category = "SpaceX Falcon 9"
 name = "Return to Launch Site"
 
-company = "SpaceX"
-vehicle = "Falcon 9"
-
+aspect = "wide"
 file = "trajectory/spacex-falcon9-booster-rtls"
 +++
 
@@ -30,7 +28,7 @@ launch site" landing (i.e. landing on land).
    [RCS thrusters]({{< ref "term/rcs.md" >}}) and deploys its
    [grid fins]({{< ref "term/grid-fins.md" >}}).
 3. The Falcon 9 booster performs a long boostback burn, bringing its
-   [IIP]({{< ref "term/tmi.md" >}}) to the vicinity of the launch site.
+   [IIP]({{< ref "term/iip.md" >}}) to the vicinity of the launch site.
 4. At about 70km in altitude, the booster ignites three of its nine
    engines for its [entry burn]({{< ref "term/entry-burn.md" >}}). The
    entry burn ends at about 40km. The entry burn slows down the
