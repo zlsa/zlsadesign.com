@@ -413,6 +413,15 @@
        x2="1440"
        y2="320"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient29316"
+       id="linearGradient29542"
+       gradientUnits="userSpaceOnUse"
+       x1="624"
+       y1="752"
+       x2="1840"
+       y2="440" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -421,11 +430,11 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="809.3879118661862"
-     inkscape:cy="102.1836445728321"
+     inkscape:zoom="0.9999999999999999"
+     inkscape:cx="1580.580151115973"
+     inkscape:cy="72.49943304668318"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
      units="px"
@@ -468,8 +477,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,27.63783949003505)"
-     style="display:inline;opacity:1"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3334"
@@ -487,12 +495,12 @@
        inkscape:transform-center-y="36.00000075542562"
        inkscape:connector-curvature="0"
        id="path7244"
-       d="m 2271.999999459703,508 0,-64.0000000000001"
+       d="M 2271.999999459703,508 V 443.9999999999999"
        style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2271.999999459703,380 0,63.9999999999998"
+       d="m 2271.999999459703,380 v 63.9999999999998"
        id="path7242"
        inkscape:connector-curvature="0"
        inkscape:transform-center-y="-36.00000075542562"
@@ -501,11 +509,11 @@
        inkscape:transform-center-x="-36.0000007554255"
        inkscape:connector-curvature="0"
        id="path7216"
-       d="m 2343.999999459703,443.9999999999999 -72,0"
+       d="m 2343.999999459703,443.9999999999999 h -72"
        style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2199.999999459703,444 72,0"
+       d="m 2199.999999459703,444 h 72"
        id="path7214"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="36.0000007554255" />
@@ -534,7 +542,7 @@
          y="624" />
       <g
          id="g7174"
-         transform="translate(14,0)">
+         transform="translate(14)">
         <rect
            style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect7176"
@@ -544,7 +552,7 @@
            y="628" />
         <path
            style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 225.5,631 -2.5,10 2.5,0 2.5,-10 z m 5,0 -2.5,10 2.5,0 2.5,-10 z"
+           d="m 225.5,631 -2.5,10 h 2.5 l 2.5,-10 z m 5,0 -2.5,10 h 2.5 l 2.5,-10 z"
            id="path7178"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccc" />
@@ -574,7 +582,7 @@
       <path
          sodipodi:nodetypes="cccc"
          style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 156,624.0000000000001 -8,0 L 148,648 l 8,0"
+         d="m 156,624.0000000000001 h -8 V 648 h 8"
          id="path7186"
          inkscape:connector-curvature="0" />
     </g>
@@ -589,7 +597,7 @@
          id="rect7190"
          style="opacity:1;fill:#ffffff;fill-opacity:0.5019607843;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         transform="translate(50,0)"
+         transform="translate(50)"
          id="g7196">
         <rect
            y="628"
@@ -602,7 +610,7 @@
            sodipodi:nodetypes="cccccccccc"
            inkscape:connector-curvature="0"
            id="path7200"
-           d="m 225.5,631 -2.5,10 2.5,0 2.5,-10 z m 5,0 -2.5,10 2.5,0 2.5,-10 z"
+           d="m 225.5,631 -2.5,10 h 2.5 l 2.5,-10 z m 5,0 -2.5,10 h 2.5 l 2.5,-10 z"
            style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
       <text
@@ -638,7 +646,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path7208"
-         d="m 388,624.0000000000001 8,0 L 396,648 l -8,0"
+         d="m 388,624.0000000000001 h 8 V 648 h -8"
          style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cccc" />
     </g>
@@ -673,7 +681,7 @@
          id="rect7220"
          style="opacity:1;fill:#ffffff;fill-opacity:0.5019607843;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         transform="translate(32,0)"
+         transform="translate(32)"
          id="g7226">
         <rect
            y="628"
@@ -686,7 +694,7 @@
            sodipodi:nodetypes="cccccccccc"
            inkscape:connector-curvature="0"
            id="path7230"
-           d="m 225.5,631 -2.5,10 2.5,0 2.5,-10 z m 5,0 -2.5,10 2.5,0 2.5,-10 z"
+           d="m 225.5,631 -2.5,10 h 2.5 l 2.5,-10 z m 5,0 -2.5,10 h 2.5 l 2.5,-10 z"
            style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
       <text
@@ -714,7 +722,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path7238"
-         d="m 164,648 216,0"
+         d="M 164,648 H 380"
          style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
     </g>
@@ -744,7 +752,7 @@
          y="624" />
       <g
          id="g7254"
-         transform="translate(32,0)">
+         transform="translate(32)">
         <rect
            style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect7256"
@@ -754,7 +762,7 @@
            y="628" />
         <path
            style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 225.5,631 -2.5,10 2.5,0 2.5,-10 z m 5,0 -2.5,10 2.5,0 2.5,-10 z"
+           d="m 225.5,631 -2.5,10 h 2.5 l 2.5,-10 z m 5,0 -2.5,10 h 2.5 l 2.5,-10 z"
            id="path7258"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccc" />
@@ -784,7 +792,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path7238-0"
-         d="m 164,624 216,0"
+         d="M 164,624 H 380"
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
     </g>
@@ -1063,45 +1071,45 @@
     <text
        id="text14588"
        y="1036"
-       x="516"
+       x="512"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start"
          y="1036"
-         x="516"
+         x="512"
          id="tspan14590"
          sodipodi:role="line">PARACHUTE LANDING</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="468.5"
+       x="480.5"
        y="1036"
        id="text14354"><tspan
          sodipodi:role="line"
          id="tspan14352"
-         x="468"
+         x="480"
          y="1036"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">PROPULSIVE LANDING</tspan></text>
     <text
        id="text14592"
        y="1052"
-       x="516"
+       x="512"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';opacity:0.4"
          y="1052"
-         x="516"
+         x="512"
          id="tspan14594"
          sodipodi:role="line">BACKUP OPTION IN CASE OF ENGINE FAILURE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="468.5"
+       x="480.5"
        y="1052"
        id="text14376"><tspan
          sodipodi:role="line"
          id="tspan14374"
-         x="468"
+         x="480"
          y="1052"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:end;text-anchor:end;opacity:0.4">ENGINES PERFORMING NOMINALLY</tspan></text>
     <text
@@ -1229,23 +1237,47 @@
          id="path25498"
          inkscape:connector-curvature="0" />
     </g>
+    <text
+       id="text29536"
+       y="1036"
+       x="1776.5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end"
+         y="1036"
+         x="1776"
+         id="tspan29534"
+         sodipodi:role="line">CLOSE-UP OF PARACHUTE LANDING</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="expansion">
     <path
-       style="display:inline;opacity:1;fill:url(#linearGradient29304);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient29318);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 528,536 h 16 C 848,536 976,72 1312,72 l 21.756899916379,-1.6958086e-7 C 1333.756899916379,71.99999983041914 1616,343.9999999999999 1616,696 l 5,305 H 672 V 824 l -20,-92 -40,-88 z"
+       style="display:inline;opacity:1;fill:url(#linearGradient29304);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient29542);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 528,536 1333.756899916379,71.99999983041914 C 1333.756899916379,71.99999983041914 1616,343.9999999999999 1616,696 l 5,305 H 672 V 824 l -20,-92 -40,-88 z"
        id="path29293"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="ccccccccc" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.9892473221;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect29544"
+       width="2"
+       height="2"
+       x="704"
+       y="1000" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.9892473408;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect29544-8"
+       width="2"
+       height="2"
+       x="1582"
+       y="1000" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer21"
-     inkscape:label="key"
-     sodipodi:insensitive="true" />
+     inkscape:label="key" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
@@ -1274,10 +1306,10 @@
     <rect
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect29320"
-       width="344"
-       height="24"
-       x="736"
-       y="424" />
+       width="416"
+       height="28"
+       x="664"
+       y="420" />
     <g
        id="g4560"
        transform="translate(524,-200)"
@@ -1344,23 +1376,23 @@
     </g>
     <rect
        y="448"
-       x="656"
+       x="624"
        height="40"
-       width="440"
+       width="472"
        id="rect29361"
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
     <rect
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect29363"
-       width="280"
+       width="359.5"
        height="36"
-       x="656"
+       x="576.5"
        y="464" />
     <text
        id="text9420"
        y="464"
        x="560"
-       style="display:inline;opacity:0.6;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan9428"
          y="464"
@@ -1468,8 +1500,7 @@
          style="opacity:1;fill:#ffffff;fill-opacity:0.5019607843;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
          transform="translate(34)"
-         id="g5548-0"
-         style="">
+         id="g5548-0">
         <rect
            y="628"
            x="210"
@@ -1505,7 +1536,7 @@
            id="tspan5560-0"
            x="280"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1">DRAGON 2 CAN LAND ON THE GROUND EVEN WITHOUT SUPERDRACOS.</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1">ADDITIONALLY, DRAGON 2 CAN SOFT-LAND ON LAND EVEN WITHOUT SUPERDRACOS.</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path5562-4"
@@ -2093,7 +2124,7 @@
          id="g4789">
         <g
            inkscape:transform-center-x="-5.3777845"
-           transform="rotate(2.000000182857086,-368.000048312049,828.3620564598928)"
+           transform="rotate(2.000000182857086,-368.0000483120577,828.3620564593913)"
            inkscape:transform-center-y="-97.94074500000001"
            id="g5345">
           <path
@@ -2122,7 +2153,7 @@
            inkscape:connector-curvature="0" />
         <g
            inkscape:transform-center-x="5.3777863"
-           transform="rotate(-2.000000182857086,-367.999895338,828.3621113129141)"
+           transform="rotate(-2.000000182857086,-367.9998953380087,828.3621113134156)"
            id="g5355"
            inkscape:transform-center-y="-97.940743">
           <path
@@ -2626,7 +2657,7 @@
     </g>
     <g
        id="g5639"
-       transform="translate(-1065.134210906851,-541.4861534558924)">
+       transform="translate(-1065.134210906851,-541.4861534558923)">
       <g
          id="g5641"
          transform="translate(-80,70.99995699999999)"
@@ -2702,7 +2733,7 @@
       </g>
     </g>
     <g
-       transform="translate(-1001.134210906851,-541.4861534558924)"
+       transform="translate(-1001.134210906851,-541.4861534558923)"
        id="g5683">
       <g
          inkscape:export-ydpi="90"
@@ -4065,7 +4096,7 @@
       </g>
     </g>
     <g
-       transform="translate(304,-5.362117000000581)"
+       transform="translate(304,-5.362117000000583)"
        id="g4522">
       <g
          inkscape:export-ydpi="90"
@@ -4186,7 +4217,7 @@
     </g>
     <g
        id="g4580"
-       transform="rotate(-4.107467128994337,-5897.537633182741,-1627.556127072135)"
+       transform="rotate(-4.107467128994337,-5897.537633182771,-1627.556127071294)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        style="display:inline">
@@ -4241,7 +4272,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="rotate(-4.043380736834137,-1555.348444228278,-3404.291795754567)"
+       transform="rotate(-4.043380736834137,-1555.348444228295,-3404.291795754088)"
        id="g5683-0">
       <g
          inkscape:export-ydpi="90"
@@ -4883,13 +4914,13 @@
     </g>
     <g
        id="g5489-2"
-       transform="rotate(-16.45160667874276,-892.9710697342691,-4284.089216470398)">
+       transform="rotate(-16.45160667874276,-892.9710697342721,-4284.089216470372)">
       <g
          transform="translate(608,71.99997999999999)"
          id="g4789-0">
         <g
            inkscape:transform-center-x="-5.3777845"
-           transform="rotate(2.000000182857086,-368.0000483120753,828.3620564583882)"
+           transform="rotate(2.000000182857086,-368.000048312084,828.3620564578867)"
            inkscape:transform-center-y="-97.94074500000001"
            id="g5345-5">
           <path
@@ -4918,7 +4949,7 @@
            inkscape:connector-curvature="0" />
         <g
            inkscape:transform-center-x="5.3777863"
-           transform="rotate(-2.000000182857086,-367.9998953380263,828.3621113144188)"
+           transform="rotate(-2.000000182857086,-367.999895338035,828.3621113149202)"
            id="g5355-0"
            inkscape:transform-center-y="-97.940743">
           <path
@@ -4998,7 +5029,7 @@
     </g>
     <g
        id="g5604-2"
-       transform="rotate(-39.99876226169529,-324.7328160674199,-1360.208572253329)"
+       transform="rotate(-39.99876226169529,-324.73281606742,-1360.208572253329)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -5056,8 +5087,7 @@
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="plot"
-     style="display:none;opacity:0.3"
-     sodipodi:insensitive="true">
+     style="display:none;opacity:0.3">
     <image
        y="277.4891662597656"
        x="-17.1422119140625"
@@ -5071,8 +5101,7 @@
      inkscape:groupmode="layer"
      id="layer17"
      inkscape:label="copyright"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4137-2"
@@ -5112,7 +5141,7 @@
          y="1065"
          x="1800"
          id="tspan5760"
-         sodipodi:role="line">2016</tspan></text>
+         sodipodi:role="line">2017</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.7509803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
