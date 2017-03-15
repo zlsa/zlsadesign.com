@@ -5,7 +5,7 @@ categories = ["design", "programming"]
 
 date = "2017-03-11T18:07:22-08:00"
 
-tags = ["android", "calculator", "material design"]
+tags = ["stackulator", "android", "calculator", "material design"]
 
 [app]
 name = "Stackulator"

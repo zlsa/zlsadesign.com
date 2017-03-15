@@ -14,6 +14,7 @@ My email address is [jonross.zlsa@gmail.com](mailto:jonross.zlsa@gmail.com).
 
 <!--more-->
 
+<!--
 # Frequently Asked Questions
 
 ## How I make 3D Art
@@ -25,22 +26,20 @@ don't actually use Inkscape that often; I tend to model and then bake
 my textures directly in a separate Blender model. This lets me use
 Blender's tools (such as dupliverts and arrays) and, as a bonus,
 produces high-quality normal maps.
+-->
 
----
+# Corrections and suggestions
 
-# Donations
+Have you found a mistake in an infographic or article? I welcome
+corrections and suggestions on anything. No matter what, you can email
+me at [jonross.zlsa@gmail.com](mailto:jonross.zlsa@gmail.com);
+however, for my projects on GitHub, it will be faster if you open a
+new issue on that project instead of emailing me. I'll fix the
+mistakes as fast as I can.
 
-At best, ads consume bandwidth and take up space; at worst, they're
-unskippable or phishing attempts. I wouldn't view a website or use an
-app that has annoying ads, so in reciprocation, everything I make is
-100% ad-free.
+# Donating
 
 If you like what I do (whether it's my [apps](/app/), my
 [infographics](/infographic/), or anything else I've made) and you
-want to show your appreciation, donating to me is a great way to show
+want to show your appreciation, [donations](/donate/) are a great way to show
 it!
-
-## [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jonross%2ezlsa%40gmail%2ecom&lc=US&item_name=ZLSA%20Design&no_note=0&currency_code=USD)
-
-## Bitcoin: 1Zxyz
-

@@ -6,15 +6,17 @@ categories = ["Meta", "Hidden"]
 
 # Thank you!
 
-Ads are an annoyance. I wouldn't view a website or use an app that has
-annoying ads, so everything I make is 100% ad-free.
+At best, ads consume bandwidth and take up space; at worst, they're
+unskippable or phishing attempts. I wouldn't view a website or use an
+app that has annoying ads, so in reciprocation, everything I make is
+100% ad-free.
 
-If you like what I do (whether it's my [apps](/app/), my
-[infographics](/infographic/), or anything else I've made) and you
-want to show your appreciation, donating to me is a great way to show it!
+> [**PayPal**](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jonross%2ezlsa%40gmail%2ecom&lc=US&item_name=ZLSA%20Design&no_note=0&currency_code=USD)
+> **Bitcoin: 1LEFNowYioNHzq6jRd2YyYEha28aRPGK8A**
 
-# [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jonross%2ezlsa%40gmail%2ecom&lc=US&item_name=ZLSA%20Design&no_note=0&currency_code=USD)
+---
 
-# Bitcoin: 1Zxyz
-
-
+There are also other ways you can help without donating! Corrections
+and suggestions are welcome (just email me at
+[jonross.zlsa@gmail.com](mailto:jonross.zlsa@gmail.com)). Thank you
+for helping.
