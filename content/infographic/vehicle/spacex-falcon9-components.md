@@ -6,11 +6,24 @@ author = "Jon Ross"
 
 date = "2016-06-16T22:20:29.099537Z"
 
-tags = ["vehicle", "components", "spacex", "spacex-falcon9", "launch-vehicle"]
+visible_tags = ["vehicle", "components", "spacex", "spacex-falcon9", "launch-vehicle"]
+tags = [
+     "vehicle",
+     "components",
+
+     "spacex",
+     "spacex-falcon9",
+
+     "spacex-octaweb",
+     "spacex-merlin1d",
+     "spacex-merlin1dvac",
+     
+     "launch-vehicle"
+     ]
 
 [infographic]
 category = "SpaceX Falcon 9"
-name = "Lander Components"
+name = "Components"
 
 aspect = "tall"
 file = "vehicle/spacex-falcon9-components"

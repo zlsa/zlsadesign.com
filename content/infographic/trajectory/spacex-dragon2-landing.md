@@ -6,7 +6,20 @@ author = "Jon Ross"
 
 date = "2017-03-15 21:15:10"
 
-tags = ["spacex", "spacex-dragon2", "spacecraft", "trajectory", "ocean-landing", "edl", "land-landing"]
+visible_tags = ["trajectory", "spacex", "spacex-dragon2", "spacecraft", "land-landing", "ocean-landing", "edl"]
+tags = [
+     "spacex",
+     "spacex-dragon2",
+     
+     "spacecraft",
+     
+     "trajectory",
+     
+     "edl",
+     
+     "land-landing",
+     "ocean-landing",
+     ]
 
 [infographic]
 category = "SpaceX Dragon 2"
