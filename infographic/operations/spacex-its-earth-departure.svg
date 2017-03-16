@@ -15,7 +15,7 @@
    viewBox="0 0 1920.000014883593 1080.000022662765"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="spacex-its-earth-departure.svg"
    inkscape:export-filename="/home/zlsa/projects/online/infographics/data/images/operations/spacex-its-earth-departure.png"
    inkscape:export-xdpi="180"
@@ -320,8 +320,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1007.817695638414"
-     inkscape:cy="782.7508184972835"
+     inkscape:cx="1004.817695638414"
+     inkscape:cy="46.75081849728349"
      inkscape:document-units="px"
      inkscape:current-layer="g8951"
      showgrid="false"
@@ -354,7 +354,8 @@
     <sodipodi:guide
        position="1719.047394877013,902.1882656080651"
        orientation="-0.9659258262890685,0.2588190451025199"
-       id="guide7198" />
+       id="guide7198"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -364,7 +365,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -408,16 +409,15 @@
          y="624" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="380.5"
          y="640"
-         id="text13692"
-         sodipodi:linespacing="125%"><tspan
+         id="text13692"><tspan
            sodipodi:role="line"
            id="tspan13694"
            x="380"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">SOLAR PANELS DEPLOY</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">SOLAR PANELS DEPLOY</tspan></text>
       <rect
          transform="scale(-1,1)"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -452,13 +452,12 @@
          id="rect13676"
          style="opacity:1;fill:#ffffff;fill-opacity:0.5019607843;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text13678"
          y="640"
          x="380.5"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
            y="640"
            x="380"
            id="tspan13680"
@@ -553,24 +552,22 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="164"
          y="640"
-         id="text7170"
-         sodipodi:linespacing="125%"><tspan
+         id="text7170"><tspan
            sodipodi:role="line"
            id="tspan7172"
            x="164"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;fill-opacity:1">TITLE TEXT</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;fill-opacity:1">TITLE TEXT</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7180"
          y="640"
          x="260"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1"
            y="640"
            x="260"
            id="tspan7182"
@@ -610,13 +607,12 @@
            style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
       <text
-         sodipodi:linespacing="125%"
          id="text7192"
          y="640"
          x="260.5"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
            y="640"
            x="260"
            id="tspan7194"
@@ -631,16 +627,15 @@
          transform="scale(-1,1)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="380.5"
          y="640"
-         id="text7202"
-         sodipodi:linespacing="125%"><tspan
+         id="text7202"><tspan
            sodipodi:role="line"
            id="tspan7204"
            x="380"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">SECONDARY TEXT</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">SECONDARY TEXT</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path7208"
@@ -696,29 +691,27 @@
            style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
       <text
-         sodipodi:linespacing="125%"
          id="text7222"
          y="640"
-         x="242.28882"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="242.288818359375"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
            y="640"
-           x="241.78882"
+           x="241.788818359375"
            id="tspan7224"
            sodipodi:role="line">TITLE TEXT</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="278"
          y="640"
-         id="text7232"
-         sodipodi:linespacing="125%"><tspan
+         id="text7232"><tspan
            sodipodi:role="line"
            id="tspan7234"
            x="278"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1">SECONDARY TEXT</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1">SECONDARY TEXT</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path7238"
@@ -769,24 +762,22 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="242.28882"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="242.288818359375"
          y="640"
-         id="text7250"
-         sodipodi:linespacing="125%"><tspan
+         id="text7250"><tspan
            sodipodi:role="line"
            id="tspan7252"
-           x="241.78882"
+           x="241.788818359375"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">TITLE TEXT</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">TITLE TEXT</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7260"
          y="640"
          x="278"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1"
            y="640"
            x="278"
            id="tspan7262"
@@ -825,16 +816,15 @@
          y="624" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="164"
          y="640"
-         id="text7170-2"
-         sodipodi:linespacing="125%"><tspan
+         id="text7170-2"><tspan
            sodipodi:role="line"
            id="tspan7172-6"
            x="164"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;fill-opacity:1">SPACECRAFT LIFTOFF</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;fill-opacity:1">SPACECRAFT LIFTOFF</tspan></text>
       <path
          sodipodi:nodetypes="cccc"
          style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -862,16 +852,15 @@
          y="624" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="380.5"
          y="640"
-         id="text11010"
-         sodipodi:linespacing="125%"><tspan
+         id="text11010"><tspan
            sodipodi:role="line"
            id="tspan11012"
            x="380"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">PROPELLANT TANKER LAUNCHES INTO ORBIT</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">PROPELLANT TANKER LAUNCHES INTO ORBIT</tspan></text>
       <rect
          transform="scale(-1,1)"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -920,13 +909,12 @@
          id="rect7220-6"
          style="opacity:1;fill:#ffffff;fill-opacity:0.5019607843;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text7222-9"
          y="640"
          x="380.5"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
            y="640"
            x="380"
            id="tspan7224-4"
@@ -957,13 +945,12 @@
          id="rect11556"
          style="opacity:1;fill:#ffffff;fill-opacity:0.5019607843;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text11558"
          y="640"
          x="380.5"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
            y="640"
            x="380"
            id="tspan11560"
@@ -1009,13 +996,12 @@
          id="rect11608"
          style="opacity:1;fill:#ffffff;fill-opacity:0.5019607843;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text11610"
          y="640"
          x="164"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;fill-opacity:1"
            y="640"
            x="164"
            id="tspan11612"
@@ -1046,13 +1032,12 @@
          id="rect11732"
          style="opacity:1;fill:#ffffff;fill-opacity:0.5019607843;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text11734"
          y="640"
          x="380.5"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
            y="640"
            x="380"
            id="tspan11736"
@@ -1099,16 +1084,15 @@
          y="624" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="164"
          y="640"
-         id="text13618"
-         sodipodi:linespacing="125%"><tspan
+         id="text13618"><tspan
            sodipodi:role="line"
            id="tspan13620"
            x="164"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;fill-opacity:1">PROPELLANT TANKER PREPARES FOR ITS NEXT MISSION</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;fill-opacity:1">PROPELLANT TANKER PREPARES FOR ITS NEXT MISSION</tspan></text>
       <path
          sodipodi:nodetypes="cccc"
          style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1129,16 +1113,15 @@
          y="624" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="380.5"
          y="640"
-         id="text11819"
-         sodipodi:linespacing="125%"><tspan
+         id="text11819"><tspan
            sodipodi:role="line"
            id="tspan11821"
            x="380"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">ALL SIX VACUUM RAPTOR ENGINES IGNITE FOR TMI BURN</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">ALL SIX VACUUM RAPTOR ENGINES IGNITE FOR TMI BURN</tspan></text>
       <rect
          transform="scale(-1,1)"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4278,52 +4261,48 @@
        y="1040" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.7509803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.7509803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1848.5"
        y="1065"
-       id="text3353"
-       sodipodi:linespacing="125%"><tspan
+       id="text3353"><tspan
          sodipodi:role="line"
          id="tspan3355"
          x="1848"
          y="1065"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:0.7509803922">ZLSA</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:0.7509803922">ZLSA</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text4161"
        y="1065"
        x="1849"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.5019607843;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.5019607843;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.5019607843"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.5019607843"
          y="1065"
          x="1849"
          id="tspan4163"
          sodipodi:role="line">DESIGN</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5758"
        y="1065"
        x="1800.5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.7509803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.7509803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:0.2509803922"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:0.2509803922"
          y="1065"
          x="1800"
          id="tspan5760"
          sodipodi:role="line">2016</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.7509803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.7509803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1762.5"
        y="1065"
-       id="text5770"
-       sodipodi:linespacing="125%"><tspan
+       id="text5770"><tspan
          sodipodi:role="line"
          id="tspan5772"
          x="1762"
          y="1065"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:0.2509803922">COPYRIGHT</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:0.2509803922">COPYRIGHT</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4344,16 +4323,15 @@
        y="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="30"
        y="60"
-       id="text4139"
-       sodipodi:linespacing="125%"><tspan
+       id="text4139"><tspan
          sodipodi:role="line"
          id="tspan4141"
          x="30"
          y="60"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'">SpaceX Interplanetary Transportation System</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'">SpaceX Interplanetary Transportation System</tspan></text>
     <g
        id="g5201"
        transform="translate(184,0)">
@@ -4372,73 +4350,67 @@
          style="opacity:0.4;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <text
-       sodipodi:linespacing="125%"
        id="text4171"
        y="60"
        x="480"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';opacity:0.4"
          y="60"
          x="480"
          id="tspan4173"
          sodipodi:role="line">EARTH DEPARTURE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="480"
        y="76"
-       id="text5719"
-       sodipodi:linespacing="125%"><tspan
+       id="text5719"><tspan
          sodipodi:role="line"
          id="tspan5721"
          x="480"
          y="76"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';opacity:0.4">* NOT TO SCALE; ACCURACY NOT GUARANTEED. SHOWN HERE: 3-TANKER PASSENGER MISSION</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';opacity:0.4">* NOT TO SCALE; ACCURACY NOT GUARANTEED. SHOWN HERE: 3-TANKER PASSENGER MISSION</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="128"
        y="152"
-       id="text12233-2-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text12233-2-6"><tspan
          sodipodi:role="line"
          id="tspan12235-4-2"
          x="128"
          y="152"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#404040;fill-opacity:1">LAUNCH OF CREWED SPACECRAFT</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#404040;fill-opacity:1">LAUNCH OF CREWED SPACECRAFT</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text11644"
        y="152"
        x="776"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#404040;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#404040;fill-opacity:1"
          y="152"
          x="776"
          id="tspan11646"
          sodipodi:role="line">ON-ORBIT REFUELING</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1200"
        y="152"
-       id="text11648"
-       sodipodi:linespacing="125%"><tspan
+       id="text11648"><tspan
          sodipodi:role="line"
          id="tspan11650"
          x="1200"
          y="152"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#404040;fill-opacity:1">TRANS-MARS INJECTION</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#404040;fill-opacity:1">TRANS-MARS INJECTION</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text13708"
        y="152"
        x="1656"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#404040;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;text-anchor:start;fill:#404040;fill-opacity:1"
          y="152"
          x="1656"
          id="tspan13710"
@@ -4459,20 +4431,19 @@
        y="663.2000122070312" />
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1104.25"
        y="648"
-       id="text13712"
-       sodipodi:linespacing="125%"><tspan
+       id="text13712"><tspan
          sodipodi:role="line"
          x="1104"
          y="648"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#404040;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#404040;fill-opacity:1"
          id="tspan13716">TANKER LAUNCHES AND REFUELS</tspan><tspan
          sodipodi:role="line"
          x="1104"
          y="679.25"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#404040;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#404040;fill-opacity:1"
          id="tspan13720">SPACECRAFT 3–5 TIMES</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4482,76 +4453,70 @@
        x="944"
        y="736" />
     <text
-       sodipodi:linespacing="125%"
        id="text13728"
        y="752"
        x="1104.25"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan13732"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';text-align:center;text-anchor:middle;fill:#404040;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';text-align:center;text-anchor:middle;fill:#404040;fill-opacity:1"
          y="752"
          x="1104"
          sodipodi:role="line">BOOSTER AND TANKER ARE BOTH REUSED</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5598"
        y="168"
        x="128"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
          y="168"
          x="128"
          id="tspan5600"
          sodipodi:role="line">SPACECRAFT LAUNCHES WITH UP TO 100 PASSENGERS OR SEVERAL HUNDRED METRIC TONS OF CARGO</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="776"
        y="168"
-       id="text5602"
-       sodipodi:linespacing="125%"><tspan
+       id="text5602"><tspan
          sodipodi:role="line"
          id="tspan5604"
          x="776"
          y="168"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">PROPELLANT IS TRANSFERRED FROM TANKER TO SPACECRAFT</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">PROPELLANT IS TRANSFERRED FROM TANKER TO SPACECRAFT</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5606"
        y="168"
        x="1656"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
          y="168"
          x="1656"
          id="tspan5608"
          sodipodi:role="line">3–5 MONTHS IN INTERPLANETARY SPACE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1200"
        y="168"
-       id="text5610"
-       sodipodi:linespacing="125%"><tspan
+       id="text5610"><tspan
          sodipodi:role="line"
          id="tspan5612"
          x="1200"
          y="168"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">ABOUT 150 TONS OF PROPELLANT IS RESERVED FOR LANDING ON MARS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">ABOUT 150 TONS OF PROPELLANT IS RESERVED FOR LANDING ON MARS</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5956"
        y="1046"
-       x="960.03662"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="960.03662109375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan5960"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#404040;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#404040;fill-opacity:1"
          y="1046"
-         x="959.78662"
+         x="959.78662109375"
          sodipodi:role="line">TIME</tspan></text>
     <rect
        y="1032"
@@ -4589,14 +4554,13 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-663.75"
      y="592"
-     id="text12233-2"
-     sodipodi:linespacing="125%"><tspan
+     id="text12233-2"><tspan
        sodipodi:role="line"
        id="tspan12235-4"
        x="-664"
        y="592"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#404040;fill-opacity:1">LABEL</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#404040;fill-opacity:1">LABEL</tspan></text>
 </svg>

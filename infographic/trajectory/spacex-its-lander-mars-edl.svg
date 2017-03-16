@@ -300,11 +300,11 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767766955298213"
-     inkscape:cx="106.6426254360385"
-     inkscape:cy="610.3036344549471"
+     inkscape:zoom="1.414213561999999"
+     inkscape:cx="1564.597286827981"
+     inkscape:cy="821.6204535443117"
      inkscape:document-units="px"
-     inkscape:current-layer="layer18"
+     inkscape:current-layer="layer6"
      showgrid="false"
      borderlayer="true"
      units="px"
@@ -3141,8 +3141,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="scale border"
-     sodipodi:insensitive="true">
+     inkscape:label="scale border">
     <rect
        ry="6"
        rx="6"
