@@ -197,11 +197,11 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.250000000263818"
-     inkscape:cx="1141.129729080448"
-     inkscape:cy="324.9667306744267"
+     inkscape:zoom="0.9999999999999999"
+     inkscape:cx="1480.580631200728"
+     inkscape:cy="277.5766780366382"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer18"
      showgrid="false"
      borderlayer="true"
      units="px"
@@ -217,7 +217,8 @@
      inkscape:snap-center="true"
      inkscape:pagecheckerboard="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-nodes="true">
+     inkscape:snap-nodes="true"
+     inkscape:object-paths="true">
     <inkscape:grid
        type="xygrid"
        id="grid3374"
@@ -240,7 +241,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1250,7 +1251,7 @@
          x="255.9999389648438"
          y="488"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.0000047684%;font-family:'Roboto cONDENSED';-inkscape-font-specification:'Roboto cONDENSED, ';opacity:0.8"
-         id="tspan15138">VEHICLE TRAVELS ENGINES-FIRST DURING ENTRY, DESCENT, AND LANDING.</tspan></text>
+         id="tspan15138">VEHICLE TRAVELS ENGINES-FIRST DURING ENTRY, DESCENT, AND LANDING</tspan></text>
     <text
        id="text15478"
        y="264"
@@ -1262,6 +1263,32 @@
          y="264"
          x="1624"
          sodipodi:role="line">THE CENTER ENGINE POWERS THE VEHICLE DURING THE LANDING BURN</tspan></text>
+    <text
+       id="text30939-6"
+       y="804"
+       x="1432.5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Roboto cONDENSED';-inkscape-font-specification:'Roboto cONDENSED, ';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan30937-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.0000047684%;font-family:'Roboto cONDENSED';-inkscape-font-specification:'Roboto cONDENSED, ';text-align:end;text-anchor:end;opacity:0.8"
+         y="804"
+         x="1432"
+         sodipodi:role="line">GLIDE DISTANCE AND MANEUVERS HAVE NOT BEEN PUBLISHED BY BLUE ORIGIN.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.0000047684%;font-family:'Roboto cONDENSED';-inkscape-font-specification:'Roboto cONDENSED, ';text-align:end;text-anchor:end;opacity:0.8"
+         y="819"
+         x="1432"
+         sodipodi:role="line"
+         id="tspan20623">THE FOREMOST EDUCATED GUESS IS THAT THE BOOSTER WILL PERFORM WIDE S-TURNS IN THE UPPER</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.0000047684%;font-family:'Roboto cONDENSED';-inkscape-font-specification:'Roboto cONDENSED, ';text-align:end;text-anchor:end;opacity:0.8"
+         y="834"
+         x="1432"
+         sodipodi:role="line"
+         id="tspan20625">ATMOSPHERE TO BLEED OFF SPEED WITHOUT GAINING MUCH DOWNRANGE DISTANCE; HOWEVER,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.0000047684%;font-family:'Roboto cONDENSED';-inkscape-font-specification:'Roboto cONDENSED, ';text-align:end;text-anchor:end;opacity:0.8"
+         y="849"
+         x="1432"
+         sodipodi:role="line"
+         id="tspan20631">AT THIS POINT, ONLY BLUE ORIGIN KNOWS FOR SURE.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1324,7 +1351,7 @@
          id="tspan5721"
          x="281"
          y="76"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';opacity:0.4">* NO SHITPOSTING</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';opacity:0.4">* ACCURACY NOT GUARANTEED. DATA BASED ON PUBLIC STATEMENTS AND EDUCATED GUESSING.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1399,7 +1426,7 @@
        inkscape:transform-center-y="18.00000037771292"
        inkscape:connector-curvature="0"
        id="path18473"
-       d="M 1600,756 V 728 L 1136,248"
+       d="M 1600,763 V 728 L 1136,248"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="ccc"
        inkscape:transform-center-x="-31.17691519045792" />
@@ -2048,6 +2075,98 @@
        id="path10823"
        d="m 1864,1008 c 0,-21.9077214709735 0.704784111381,-58.2862000290856 -36.396484375,-100.03125 C 1790.502247138619,866.2237000290855 1718.13715397237,816.3910834529507 1571.74609375,750.1015625 1425.658829587211,683.9496079751244 1222.913061874424,632 960,632"
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       style="display:inline;opacity:1"
+       id="g9158-7-9-3-00-9-9"
+       transform="translate(1356.831973827942,429.0000000183752)">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle9152-7-2-5-4-7-7"
+         cx="162"
+         cy="316"
+         r="5" />
+      <circle
+         r="3"
+         cy="316"
+         cx="162"
+         id="circle9154-0-8-0-5-3-3"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle9156-5-5-95-1-6-6"
+         cx="162"
+         cy="316"
+         r="2" />
+    </g>
+    <g
+       style="display:inline;opacity:1"
+       id="g9158-7-9-3-00-9-19"
+       transform="translate(389.9591038496337,380.2129967537233)">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle9152-7-2-5-4-7-4"
+         cx="162"
+         cy="316"
+         r="5" />
+      <circle
+         r="3"
+         cy="316"
+         cx="162"
+         id="circle9154-0-8-0-5-3-7"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle9156-5-5-95-1-6-8"
+         cx="162"
+         cy="316"
+         r="2" />
+    </g>
+    <g
+       style="display:inline;opacity:1"
+       id="g9158-7-9-3-00-9-4"
+       transform="translate(354.4599161072886,389.833787111924)">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle9152-7-2-5-4-7-5"
+         cx="162"
+         cy="316"
+         r="5" />
+      <circle
+         r="3"
+         cy="316"
+         cx="162"
+         id="circle9154-0-8-0-5-3-0"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle9156-5-5-95-1-6-36"
+         cx="162"
+         cy="316"
+         r="2" />
+    </g>
+    <g
+       style="display:inline;opacity:1"
+       id="g9158-7-9-3-00-9-10"
+       transform="translate(-90,692)">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle9152-7-2-5-4-7-6"
+         cx="162"
+         cy="316"
+         r="5" />
+      <circle
+         r="3"
+         cy="316"
+         cx="162"
+         id="circle9154-0-8-0-5-3-32"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle9156-5-5-95-1-6-0"
+         cx="162"
+         cy="316"
+         r="2" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2155,7 +2274,7 @@
        y="472"
        x="255.9999389648438"
        id="tspan15142"
-       sodipodi:role="line">AERODYNAMIC CONTROL DURING GLIDE</tspan></text>
+       sodipodi:role="line">GLIDE CONFIGURATION</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.8;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
