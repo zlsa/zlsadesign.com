@@ -145,11 +145,11 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.999999998944728"
-     inkscape:cx="437.913816458826"
-     inkscape:cy="1032.210364711663"
+     inkscape:zoom="1"
+     inkscape:cx="1118.427859572283"
+     inkscape:cy="885.0337662898414"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      borderlayer="true"
      units="px"
@@ -1354,7 +1354,7 @@
            id="tspan5379"
            x="336"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1">DRAG BRAKES DRAMATICALLY INCREASE DRAG TO SLOW THE VEHICLE</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1">DRAG BRAKES RAPIDLY DECELERATE THE VEHICLE TO ABOUT 180 M/S</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path5383"
@@ -1969,15 +1969,15 @@
          y="1016"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#404040;fill-opacity:1">CREW CAPSULE LANDING</tspan></text>
     <path
-       sodipodi:nodetypes="ccc"
+       sodipodi:nodetypes="cc"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1136,180 h -32 l -40,-40"
+       d="m 1112,180 -39.136075946105,-1.20706e-8"
        id="path8573"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="-36.0000007554255" />
     <g
        id="g8585"
-       transform="translate(988,-456)"
+       transform="translate(964,-456)"
        style="display:inline">
       <rect
          y="624"
@@ -3500,7 +3500,7 @@
     <g
        style="display:inline;opacity:1"
        id="g9158-7-9-3-00-7-6"
-       transform="translate(907.8374656831276,-167.867423666808)">
+       transform="translate(910.8639240538956,-136.0000000120706)">
       <circle
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle9152-7-2-5-4-3-2"
@@ -4066,8 +4066,7 @@
      inkscape:groupmode="layer"
      id="layer17"
      inkscape:label="copyright"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4137-2"
@@ -4107,7 +4106,7 @@
          y="1065"
          x="1800"
          id="tspan5760"
-         sodipodi:role="line">2016</tspan></text>
+         sodipodi:role="line">2017</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:center;letter-spacing:-0.5px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:0.7509803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

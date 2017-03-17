@@ -7,6 +7,7 @@ fi
 
 input_svg=../infographic/$1
 output_png_2x=../static/infographic/${1%.svg}.png
+output_png_4x=../static/infographic/${1%.svg}-2x.png
 
 output_jpg_cropped=../static/infographic/${1%.svg}-cropped.jpg
 output_jpg_small_wide=../static/infographic/${1%.svg}-wide.jpg
@@ -26,6 +27,7 @@ echo "processing " $input_svg
 mkdir -p -- "${output_png_2x%/*}"
 
 inkscape $input_svg --export-png=$output_png_2x --export-dpi=192 > /dev/null
+inkscape $input_svg --export-png=$output_png_4x --export-dpi=384 > /dev/null
 
 convert $output_png_2x -resize $wide_width $output_jpg_small_wide
 convert $output_png_2x -resize $tall_width $output_jpg_small_tall
