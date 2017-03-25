@@ -1,6 +1,6 @@
 +++
 title = "About Me"
-date = "2016-12-15T20:09:07-08:00"
+date = "2016-12-15"
 categories = ["Meta"]
 +++
 

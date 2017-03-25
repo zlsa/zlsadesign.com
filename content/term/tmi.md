@@ -3,7 +3,7 @@ title = "Trans-Mars Injection"
 
 tags = ["acronym", "terminology"]
 
-date = "2017-03-12T19:47:54+00:00"
+date = "2017-03-12"
 
 [term]
 type = "acronym"

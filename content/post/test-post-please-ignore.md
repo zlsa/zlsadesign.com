@@ -2,7 +2,7 @@
 
 title = "test post please ignore"
 
-date = "2017-03-14T02:42:48+00:00"
+date = "2017-03-14"
 
 categories = ["Meta"]
 
@@ -11,8 +11,6 @@ categories = ["Meta"]
 So, this is my new website. It's taken a while to get it online; I've
 wanted to place my disparate, one-off websites under one
 (good-looking) roof for years, and it's finally coming together.
-
-
 
 <!--more-->
 

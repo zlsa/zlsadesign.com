@@ -4,7 +4,7 @@ author = "Jon Ross"
 
 #categories = ["infographic"]
 
-date = "2016-06-16 15:18:10"
+date = "2016-06-16"
 
 tags = ["trajectory", "ula", "ula-vulcan", "ula-smart", "hiad", "reuse"]
 

@@ -4,7 +4,7 @@ author = "Jon Ross"
 
 #categories = ["infographic"]
 
-date = "2016-10-30T23:57:30.165690Z"
+date = "2016-10-30"
 
 tags = ["vehicle", "scale", "spacex", "spacex-its", "statue-of-liberty"]
 

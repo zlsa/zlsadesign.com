@@ -4,7 +4,7 @@ author = "Jon Ross"
 
 #categories = ["infographic"]
 
-date = "2016-09-24T15:59:16.994036Z"
+date = "2016-09-24"
 
 tags = ["vehicle", "manufacturing", "spacex", "spacex-falcon9", "spacex-merlin"]
 

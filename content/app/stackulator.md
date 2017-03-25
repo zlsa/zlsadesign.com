@@ -3,7 +3,7 @@ title = "Stackulator"
 
 categories = ["design", "programming"]
 
-date = "2017-03-11T18:07:22-08:00"
+date = "2017-03-11"
 
 tags = ["stackulator", "android", "calculator", "material design"]
 

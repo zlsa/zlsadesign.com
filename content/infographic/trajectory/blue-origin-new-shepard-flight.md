@@ -4,7 +4,7 @@ author = "Jon Ross"
 
 #categories = ["infographic"]
 
-date = "2017-03-16T16:07:20+00:00"
+date = "2017-03-16"
 
 tags = [
      "trajectory",

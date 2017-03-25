@@ -4,7 +4,7 @@ author = "Jon Ross"
 
 #categories = ["infographic"]
 
-date = "2016-06-18T17:07:09.952844Z"
+date = "2016-06-18"
 
 tags = ["vehicle", "components", "overview", "ula", "ula-vulcan", "ula-aces", "ula-centaur"]
 
