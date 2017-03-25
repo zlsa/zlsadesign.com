@@ -1,11 +1,17 @@
 +++
 title = "F9R-Dev2D"
 
-categories = ["web", "game"]
+categories = ["web", "game", "programming"]
 
 date = "2014-07-17"
 
-tags = ["Falcon 9", "VTVL", "F9R-Dev2D"]
+tags = [
+     "spacex-falcon9",
+     "spacex-falcon9-stage-one",
+     
+     "vtvl",
+     "f9r-dev2d"
+     ]
 
 [project]
 url = "http://zlsa.github.io/f9r-dev2d/"

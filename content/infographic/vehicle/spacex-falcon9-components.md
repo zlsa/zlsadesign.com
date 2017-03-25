@@ -13,8 +13,11 @@ tags = [
 
      "spacex",
      "spacex-falcon9",
+     "spacex-falcon9-octaweb",
+     "spacex-falcon9-landing-leg",
+     "spacex-falcon9-stage-one",
+     "spacex-falcon9-stage-two",
 
-     "spacex-octaweb",
      "spacex-merlin1d",
      "spacex-merlin1dvac",
      

@@ -6,7 +6,18 @@ author = "Jon Ross"
 
 date = "2016-10-26"
 
-tags = ["operations", "spacex-its", "launch"]
+tags = [
+     "operations",
+     
+     "spacex-its",
+     "spacex-its-stage-one",
+     "spacex-its-lander",
+     "spacex-its-tanker",
+
+     "mars",
+     "rtls",
+     "launch"
+]
 
 [infographic]
 category = "SpaceX Interplanetary Transportation System"

@@ -6,7 +6,18 @@ author = "Jon Ross"
 
 date = "2016-06-16"
 
-tags = ["spacex", "spacex-falcon9", "trajectory", "rtls", "boostback-burn", "edl", "land-landing"]
+tags = [
+     "trajectory",
+     "rtls",
+     
+     "spacex",
+     "spacex-falcon9",
+     "spacex-falcon9-stage-one",
+     
+     "boostback-burn",
+     "edl",
+     "land-landing"
+     ]
 
 [infographic]
 category = "SpaceX Falcon 9"
@@ -27,7 +38,7 @@ launch site" landing (i.e. landing on land).
    its trip into orbit. The booster stage flips around using its
    [RCS thrusters]({{< ref "term/rcs.md" >}}) and deploys its
    [grid fins]({{< ref "term/grid-fins.md" >}}).
-3. The Falcon 9 booster performs a long boostback burn, bringing its
+3. The Falcon 9 booster performs a long [boostback burn]({{< ref "term/boostback-burn.md" >}}), bringing its
    [IIP]({{< ref "term/iip.md" >}}) to the vicinity of the launch site.
 4. At about 70km in altitude, the booster ignites three of its nine
    engines for its [entry burn]({{< ref "term/entry-burn.md" >}}). The

@@ -1,12 +1,27 @@
 +++
-title = "SpaceX Falcon 9 Booster Trajectory (compared to Blue Origin's New Shepard)"
+title = "SpaceX Falcon 9 Booster Trajectory compared to Blue Origin's New Shepard"
 author = "Jon Ross"
 
 #categories = ["infographic"]
 
 date = "2016-12-16"
 
-tags = ["trajectory", "spacex", "spacex-falcon9", "rtls", "edl", "blue-origin", "blue-origin-new-shepard"]
+tags = [
+     "trajectory",
+     
+     "blue-origin",
+     "blue-origin-new-shepard",
+     "blue-origin-new-shepard-propulsion-module",
+     
+     "spacex",
+     "spacex-falcon9",
+     "spacex-falcon9-stage-one",
+
+     "boostback-burn",
+     
+     "rtls",
+     "edl",
+]
 
 [infographic]
 category = "SpaceX Falcon 9 Booster Trajectory"

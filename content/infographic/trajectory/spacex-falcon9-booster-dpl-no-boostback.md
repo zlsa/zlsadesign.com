@@ -6,7 +6,17 @@ author = "Jon Ross"
 
 date = "2016-08-27"
 
-tags = ["spacex", "spacex-falcon9", "spacex-asds", "trajectory", "ocean-landing", "edl"]
+tags = [
+     "trajectory",
+     
+     "spacex",
+     "spacex-falcon9",
+     "spacex-falcon9-stage-one",
+     
+     "edl",
+     "spacex-asds",
+     "ocean-landing",
+]
 
 [infographic]
 category = "SpaceX Falcon 9"
