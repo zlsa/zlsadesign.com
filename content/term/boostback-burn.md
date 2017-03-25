@@ -1,13 +1,23 @@
 +++
 title = "Boostback Burn"
 
-tags = ["terminology", "boostback-burn", "trajectory"]
+tags = [
+     "terminology",
+     "boostback-burn",
+     "trajectory"
+     ]
 
 date = "2017-03-25"
 
 [term]
 type = "terminology"
 expanded = "Boostback Burn"
+
+[[more]]
+name = "The why and how of landing rockets"
+source = "SpaceX"
+url = "http://www.spacex.com/news/2015/06/24/why-and-how-landing-rockets"
+
 +++
 
 The "Boostback Burn" is the maneuver that [SpaceX](/tags/spacex) uses
