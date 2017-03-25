@@ -22,8 +22,8 @@ propulsive landing (i.e. ocean landing) on the
 [ASDS](/tags/spacex-asds).
 
 Note that this is the trajectory of a booster during a
-high-performance mission, and does not include a [boostback burn]({{<
-ref "/term/boostback-burn.md" >}}). The approximate trajectory of a
+high-performance mission, and does not include a
+[boostback burn]({{< ref "term/boostback-burn.md" >}}). The approximate trajectory of a
 Falcon 9 landing with a boostback burn [can be seen here]({{< ref
 "infographic/trajectory/spacex-falcon9-booster-dpl.md" >}}).
 

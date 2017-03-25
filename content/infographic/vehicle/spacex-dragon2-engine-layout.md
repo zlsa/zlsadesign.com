@@ -15,6 +15,7 @@ tags = [
      "spacex-draco",
 
      "spacex",
+     "spacex-dragon",
      "spacex-dragon2",
      
      "spacecraft"]

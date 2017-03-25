@@ -14,6 +14,7 @@ tags = [
      "spacex-draco",
 
      "spacex",
+     "spacex-dragon",
      "spacex-dragon1",
 
      "spacecraft-service-module",

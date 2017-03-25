@@ -10,6 +10,8 @@ tags = [
      "spacex",
      "spacex-falcon9",
      
+     "spacex-dragon",
+     
      "launch",
      "energy",
      "velocity",
@@ -24,6 +26,6 @@ file = "trajectory/spacex-falcon9-reaching-orbit"
 +++
 
 This is a visualization of how much velocity the
-[SpaceX Dragon](/tags/spacex-dragon1) capsule gains from the
+[SpaceX Dragon](/tags/spacex-dragon) capsule gains from the
 [SpaceX Falcon 9](/tags/spacex-falcon9) booster during a launch to the
 ISS.
