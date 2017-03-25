@@ -6,3 +6,8 @@ pluralizelisttitles = true
 paginate = 10
 preserveTaxonomyNames = true
 canonifyURLs = true
+
+[Params]
+description = "I make spaceflight infographics, software, and a lot of other things. I also like spaceships."
+author = "Jon Ross"
+keywords = ["infographic", "art", "javascript", "programming"]
