@@ -13,8 +13,8 @@ output_jpg_cropped=../static/infographic/${1%.svg}-cropped.jpg
 output_jpg_small_wide=../static/infographic/${1%.svg}-wide.jpg
 output_jpg_small_tall=../static/infographic/${1%.svg}-tall.jpg
 
-crop_width=1024
-crop_height=576
+crop_width=480
+crop_height=270
 
 wide_width=1820
 wide_height=1024
@@ -32,5 +32,5 @@ inkscape $input_svg --export-png=$output_png_4x --export-dpi=384 > /dev/null
 convert $output_png_2x -resize $wide_width $output_jpg_small_wide
 convert $output_png_2x -resize $tall_width $output_jpg_small_tall
 
-convert $output_png_2x -resize $crop_width -geometry ${crop_width}x${crop_height}^ -gravity north -crop ${crop_width}x${crop_height}+0+0 $output_jpg_cropped
+convert $output_png_2x -quality 70 -resize $crop_width -geometry ${crop_width}x${crop_height}^ -gravity north -crop ${crop_width}x${crop_height}+0+0 $output_jpg_cropped
 
