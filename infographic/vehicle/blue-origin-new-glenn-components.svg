@@ -91,11 +91,11 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="419.8068301834098"
-     inkscape:cy="750.7583535635306"
+     inkscape:zoom="22.62741694424374"
+     inkscape:cx="43.43750846839129"
+     inkscape:cy="1863.014412359757"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      borderlayer="true"
      units="px"
@@ -127,7 +127,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2032,16 +2032,6 @@
          x="296"
          y="-764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';opacity:0.4">* DEPICTED: BLUE ORIGIN NEW GLENN IN TWO-STAGE CONFIGURATION</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:25px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="30"
-       y="-780"
-       id="text34314"><tspan
-         sodipodi:role="line"
-         id="tspan34312"
-         x="30"
-         y="-780">t</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
