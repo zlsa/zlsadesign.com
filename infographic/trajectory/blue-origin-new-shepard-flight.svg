@@ -145,11 +145,11 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1071.434603332612"
-     inkscape:cy="689.3959801071087"
+     inkscape:zoom="0.5000000002638179"
+     inkscape:cx="951.7042689058775"
+     inkscape:cy="340.6867636709127"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer20"
      showgrid="false"
      borderlayer="true"
      units="px"
@@ -165,7 +165,7 @@
      inkscape:snap-center="true"
      inkscape:pagecheckerboard="true"
      inkscape:object-paths="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid3374"
@@ -208,7 +208,7 @@
      inkscape:label="expansion">
     <path
        style="display:inline;opacity:1;fill:url(#linearGradient29304);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient29542);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 492.1105363742868,824.0000023198864 1072,152 c 0,0 35,302.9907836058565 35,519.9999999999995 L 1112,977 H 495 Z"
+       d="M 492.1105363742868,824.0000023198864 C 736,824.0000023198864 879.9999999999996,151.9999999999999 1072,152 c 0,0 35,302.9907836058565 35,519.9999999999995 L 1112,977 H 495 Z"
        id="path29293"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
