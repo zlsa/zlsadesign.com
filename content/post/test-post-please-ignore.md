@@ -28,3 +28,6 @@ devices, regardless of size. All the information is present on all
 display sizes; none of this "eh, nobody _really_ wants to see
 <whatever> on a phone" business.
 
+The styles are written in SCSS and compiled with `sassc` (because it's
+just so damn fast. `sass`, written in Ruby, is decidedly not.) I use
+Disqus for comments because really, is there another feasible option?
