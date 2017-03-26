@@ -17,6 +17,7 @@ tags = [
      "blue-origin-new-shepard-propulsion-module",
      "blue-origin-new-shepard-crew-capsule",
 
+     "launch",
      "land-landing"
      ]
 

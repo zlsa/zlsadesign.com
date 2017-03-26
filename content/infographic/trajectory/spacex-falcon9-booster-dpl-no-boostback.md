@@ -13,6 +13,7 @@ tags = [
      "spacex-falcon9",
      "spacex-falcon9-stage-one",
      
+     "launch",
      "edl",
      "spacex-asds",
      "ocean-landing",

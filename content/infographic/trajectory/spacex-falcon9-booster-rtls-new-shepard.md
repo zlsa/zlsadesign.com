@@ -29,6 +29,8 @@ name = "Compared to Blue Origin's New Shepard"
 
 aspect = "wide"
 file = "trajectory/spacex-falcon9-booster-rtls-new-shepard"
+
+redbubble = "https://www.redbubble.com/people/zlsa/works/25710534-trajectory-comparison-spacex-falcon-9-vs-blue-origin-new-shepard"
 +++
 
 This is a comparison of the trajectory of the

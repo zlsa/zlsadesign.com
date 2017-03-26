@@ -14,6 +14,15 @@ app that has annoying ads, so in reciprocation, everything I make is
 > [**PayPal**](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jonross%2ezlsa%40gmail%2ecom&lc=US&item_name=ZLSA%20Design&no_note=0&currency_code=USD)
 > **Bitcoin: 1LEFNowYioNHzq6jRd2YyYEha28aRPGK8A**
 
+# Buy my poster designs instead!
+
+When you buy my posters I get 20% of what you pay. Some of my
+infographics and art are available for purchase as posters and other
+merchandise; check out my
+[RedBubble](https://www.redbubble.com/people/zlsa/portfolio?asc=u)
+profile to see what I sell. If there's something you'd like to see for
+sale, tell me via [email](mailto:jonross.zlsa@gmail.com) or [twitter](https://twitter.com/zlsadesign).
+
 ---
 
 There are also other ways you can help without donating! Corrections

@@ -14,6 +14,8 @@ name = "Mars Lander Scale"
 
 aspect = "tall"
 file = "vehicle/spacex-its-lander-scale"
+
+redbubble = "https://www.redbubble.com/people/zlsa/works/24203670-spacex-its-mars-lander-scale"
 +++
 
 The [SpaceX ITS](/tags/spacex-its) is huge. This is only the smaller upper stage.

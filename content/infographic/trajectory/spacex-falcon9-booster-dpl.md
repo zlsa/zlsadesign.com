@@ -14,6 +14,7 @@ tags = [
      "spacex-falcon9-stage-one",
      "spacex-asds",
      
+     "launch",
      "boostback-burn",
      "edl",
      "ocean-landing",

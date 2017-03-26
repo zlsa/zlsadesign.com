@@ -16,6 +16,8 @@ tags = [
      
      "blue-origin-new-glenn-booster",
 
+     "launch",
+     "edl",
      "ocean-landing"
      ]
 

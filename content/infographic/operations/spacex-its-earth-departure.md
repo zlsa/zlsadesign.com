@@ -25,6 +25,8 @@ name = "Earth Departure"
 
 aspect = "wide"
 file = "operations/spacex-its-earth-departure"
+
+redbubble = "https://www.redbubble.com/people/zlsa/works/24203844-spacex-its-earth-departure"
 +++
 
 This is an overview of the operations the [SpaceX ITS](/tags/spacex-its/) will take when it

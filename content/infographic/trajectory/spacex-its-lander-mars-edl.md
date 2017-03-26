@@ -25,6 +25,8 @@ name = "Mars Entry, Descent, and Landing"
 
 aspect = "wide"
 file = "trajectory/spacex-its-lander-mars-edl"
+
+redbubble = "https://www.redbubble.com/people/zlsa/works/24203776-spacex-its-mars-entry-descent-and-landing"
 +++
 
 This is the approximate trajectory of the [SpaceX
