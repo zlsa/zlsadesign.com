@@ -16,8 +16,10 @@ tags = [
      
      "boostback-burn",
      "edl",
-     "land-landing"
-     ]
+     "land-landing",
+
+     "flight-club"
+]
 
 [infographic]
 category = "SpaceX Falcon 9"
@@ -25,6 +27,8 @@ name = "Return to Launch Site"
 
 aspect = "wide"
 file = "trajectory/spacex-falcon9-booster-rtls"
+
+flightclub = "https://www.flightclub.io/results/?id=5bd19fe9-17ab-415d-92b6-13f8a296d018&code=OG22"
 +++
 
 This is the approximate trajectory of the
@@ -55,3 +59,11 @@ launch site" landing (i.e. landing on land).
    [LOx]({{< ref "term/propellant/lox.md" >}}) is vented; the
    [RP-1 (kerosene)]({{< ref "term/propellant/rp-1.md" >}}) propellant
    remains in the tank.
+
+# Sources
+
+The trajectory of the SpaceX Falcon 9 booster in this infographic is
+based on [Flight Club's](https://flightclub.io/) recreation of the
+[Orbcomm OG2 Mission 2 launch trajectory](https://www.flightclub.io/results/?id=5bd19fe9-17ab-415d-92b6-13f8a296d018&code=OG22).
+
+Check Flight Club out at their [website](https://flightclub.io/) and on [twitter](https://twitter.com/flightclubio)!

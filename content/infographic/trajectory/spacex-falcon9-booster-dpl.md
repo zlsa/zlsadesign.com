@@ -18,7 +18,9 @@ tags = [
      "boostback-burn",
      "edl",
      "ocean-landing",
-     ]
+
+     "flight-club"
+]
 
 [infographic]
 category = "SpaceX Falcon 9"
@@ -26,6 +28,7 @@ name = "Downrange Propulsive Landing"
 
 aspect = "wide"
 file = "trajectory/spacex-falcon9-booster-dpl"
+flightclub = "https://www.flightclub.io/results/?id=9a732c8c-06df-4996-88bc-e3632c02b3c1&code=CRS8"
 +++
 
 This is the approximate trajectory of the
@@ -71,3 +74,11 @@ here]({{< ref "infographic/trajectory/spacex-falcon9-booster-dpl-no-boostback.md
    of the booster help stabilize the vehicle. Soon afterwards, unused
    [LOx]({{< ref "term/propellant/lox.md" >}}) is vented; the [RP-1 (kerosene)]({{< ref
    "term/propellant/rp-1.md" >}}) propellant remains in the tank.
+
+# Sources
+
+The trajectory of the SpaceX Falcon 9 booster in this infographic is
+based on [Flight Club's](https://flightclub.io/) recreation of the
+[CRS-8 launch trajectory](https://www.flightclub.io/results/?id=9a732c8c-06df-4996-88bc-e3632c02b3c1&code=CRS8).
+
+Check Flight Club out at their [website](https://flightclub.io/) and on [twitter](https://twitter.com/flightclubio)!

@@ -15,6 +15,8 @@ tags = [
      "launch",
      "energy",
      "velocity",
+
+     "flight-club"
      ]
 
 [infographic]
@@ -29,3 +31,13 @@ This is a visualization of how much velocity the
 [SpaceX Dragon](/tags/spacex-dragon) capsule gains from the
 [SpaceX Falcon 9](/tags/spacex-falcon9) booster during a launch to the
 ISS.
+
+<!--more-->
+
+# Sources
+
+The data in this infographic is based on
+[Flight Club's](https://flightclub.io/) recreation of the
+[CRS-10 launch trajectory](https://www.flightclub.io/results/?id=898d3e72-2802-4150-99fe-2468fe10c5f6&code=JC14).
+
+Check Flight Club out at their [website](https://flightclub.io/) and on [twitter](https://twitter.com/flightclubio)!
