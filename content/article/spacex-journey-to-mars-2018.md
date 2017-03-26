@@ -20,10 +20,11 @@ background = "/article/spacex-journey-to-mars-2018/media/mars-approach.jpg"
 +++
 
 It's mid-April 2018, and SpaceX is getting ready to launch a
-[Falcon Heavy](/tags/spacex-falcon-heavy), the world's biggest rocket. This time, though, its
-payload isn't another communications or reconnaissance satellite;
-instead, SpaceX is preparing to launch their first unmanned mission to
-Mars: the Red Dragon.
+[Falcon Heavy](/tags/spacex-falcon-heavy), the world's most powerful
+rocket since [Energia](https://en.wikipedia.org/wiki/Energia). This
+time, though, its payload isn't another communications or
+reconnaissance satellite; instead, SpaceX is preparing to launch their
+first unmanned mission to Mars: the Red Dragon.
 
 <!--more-->
 
