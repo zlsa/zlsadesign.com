@@ -1,0 +1,3 @@
+[submodule "themes/zlsadesign-theme"]
+	path = themes/zlsadesign-theme
+	url = https://github.com/zlsa/zlsadesign-theme
