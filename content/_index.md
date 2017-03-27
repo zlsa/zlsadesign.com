@@ -5,9 +5,10 @@ categories = ["Core"]
 
 [hero]
 background = "/hero/red-dragon-mars-trunk-deploy.jpg"
-image = "/hero/infographics.jpg"
-url = "/infographic/"
-title = "Launch Vehicle and Spacecraft Infographics"
+image = "/images/art/spacex-falcon9-booster-glide-hero.jpg"
+url = "/art/spacex-falcon9-booster-glide/"
+title = "SpaceX Falcon 9 Booster Glide"
+class = "art message-bottom"
 +++
 
 <!--more-->
