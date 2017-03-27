@@ -20,6 +20,7 @@ tags = [
 
 [art]
 image = "spacex-falcon9-booster-glide"
+redbubble = "http://www.redbubble.com/people/zlsa/works/25855853-falcon-9-gliding-towards-its-landing-pad"
 
 +++
 
@@ -33,3 +34,14 @@ burn shutdown having occured seconds earlier) and is less than thirty
 seconds from the start of the landing burn.
 
 <!--more-->
+
+# Credit
+
+Background image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center. [Direct link to the image](https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS042&roll=E&frame=263349).
+
+And yes, the background image was taken from the ISS, orbital height
+approximately 400km, while the render was supposedly taken at 40km. It
+can be explained away with the original use of a telephoto lens
+(420mm) and the speed blur (which is wholly unnecessary but in my
+opinion makes the render look like it was taken straight out of a TV
+show dramatization.)
