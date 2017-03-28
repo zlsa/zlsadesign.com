@@ -7,6 +7,9 @@ paginate = 10
 preserveTaxonomyNames = true
 canonifyURLs = true
 
+PygmentsUseClasses = true
+PygmentsCodeFences = true
+
 [Params]
 description = "I make spaceflight infographics, software, and a lot of other things. I also like spaceships."
 author = "Jon Ross"

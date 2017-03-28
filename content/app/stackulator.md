@@ -1,11 +1,11 @@
 +++
 title = "Stackulator"
 
-categories = ["design", "programming"]
+categories = ["android", "design", "programming"]
 
 date = "2017-03-11"
 
-tags = ["stackulator", "android", "calculator", "material design"]
+tags = ["stackulator", "android", "calculator", "material-design"]
 
 [app]
 name = "Stackulator"

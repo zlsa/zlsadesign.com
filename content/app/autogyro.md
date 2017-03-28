@@ -1,11 +1,11 @@
 +++
 title = "Autogyro"
 
-categories = ["design", "programming"]
+categories = ["android", "design", "programming"]
 
 date = "2016-12-10"
 
-tags = ["autogyro", "android", "material design", "orientation"]
+tags = ["autogyro", "android", "material-design", "orientation"]
 
 [app]
 name = "Autogyro"
