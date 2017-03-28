@@ -14,6 +14,7 @@ tags = [
      "opengl",
      "opengl-es",
      ]
+     
 +++
 
 Google's Android
@@ -82,7 +83,7 @@ and some other minor features (such as OpenGL error-checking and
 rendering in another thread.)
 
 The `GLSurfaceView` does _not_ render anything; it merely provides a
-surface to which your own render can draw. A renderer must implement
+surface to which your own renderer can draw. A renderer must implement
 [`GLSurfaceView.Renderer`](https://developer.android.com/reference/android/opengl/GLSurfaceView.Renderer.html);
 more specifically, it must implement the following methods:
 
@@ -104,12 +105,15 @@ itself does not use or care about this tag, but if your app is
 available on the Google Play store, this tag will hide your app on
 phones that don't support OpenGL ES 2.0.
 
+{{< language "XML" "AndroidManifest.xml" >}}
+
 ```xml
 <uses-feature android:glEsVersion="0x00020000" android:required="true" />
 ```
 
 The `android:glEsVersion` attribute is the important part here; if
-your app requires OpenGL ES 3.0, use the value `0x00030000`; if your
+your app requires OpenGL ES 2.0, use the value `0x00020000`; if your
+app requires OpenGL ES 3.0, use the value `0x00030000`; and if your
 app requires OpenGL ES 3.1, use the value `0x00030001`.
 
 # Minimal `GLSurfaceView`
@@ -117,6 +121,8 @@ app requires OpenGL ES 3.1, use the value `0x00030001`.
 This is the simplest possible implementation of a `GLSurfaceView`. All
 it does is set the version of OpenGL ES it's going to use, creates the
 `GLSurfaceView.Renderer`, then sets it as the renderer.
+
+{{< language "Java" "CustomGLSurfaceView.java" >}}
 
 ```java
 class CustomGLSurfaceView extends GLSurfaceView {
@@ -141,16 +147,17 @@ class CustomGLSurfaceView extends GLSurfaceView {
 `GLSurfaceView` extends `View`, so you can treat it as a normal view
 and do things like the following (in an `Activity`):
 
+{{< language "Java" "MainActivity.java" >}}
+
 ```java
 @Override
 protected void onCreate(Bundle state) {
   super.onCreate(state);
 
-  this.game = new Game();
+  // Instantiate our implementation of GLSurfaceView...
+  this.render_view = new CustomGLSurfaceView(this);
 
-  this.render_view = new RenderView(this);
-  ((RenderView) this.render_view).setGame(this.game);
-
+  // ... and set it as our content view.
   setContentView(this.render_view);
 }
 ```
@@ -159,6 +166,8 @@ protected void onCreate(Bundle state) {
 
 This is a minimal implementation of a renderer implementing all three
 required functions.
+
+{{< language "Java" "CustomGLRenderer.java" >}}
 
 ```java
 public class CustomGLRenderer implements GLSurfaceView.Renderer {
