@@ -2,6 +2,8 @@
 title = "Getting started with OpenGL ES 2.0 on Android"
 description = "Learn how to use OpenGL ES 2.0 in Android by example."
 
+draft = true
+
 date = "2017-03-27"
 
 categories = ["android"]
