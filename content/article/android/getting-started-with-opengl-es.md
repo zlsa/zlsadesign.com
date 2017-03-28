@@ -14,9 +14,6 @@ tags = [
      "opengl",
      "opengl-es",
      ]
-
-[hero]
-background = "/article/spacex-journey-to-mars-2018/media/mars-approach.jpg"
 +++
 
 Google's Android
