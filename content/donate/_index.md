@@ -16,12 +16,13 @@ app that has annoying ads, so in reciprocation, everything I make is
 
 # Buy my poster designs instead!
 
-When you buy my posters I get 20% of what you pay. Some of my
+When you buy my posters I get 30% of what you pay. Some of my
 infographics and art are available for purchase as posters and other
 merchandise; check out my
 [RedBubble](https://www.redbubble.com/people/zlsa/portfolio?asc=u)
 profile to see what I sell. If there's something you'd like to see for
-sale, tell me via [email](mailto:jonross.zlsa@gmail.com) or [twitter](https://twitter.com/zlsadesign).
+sale, tell me via [email](mailto:jonross.zlsa@gmail.com) or
+[twitter](https://twitter.com/zlsadesign).
 
 ---
 

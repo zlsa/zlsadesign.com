@@ -1,3 +1,5 @@
 [submodule "themes/zlsadesign-theme"]
 	path = themes/zlsadesign
 	url = https://github.com/zlsa/zlsadesign-theme
+[credential]
+  helper = store

@@ -23,6 +23,6 @@ echo "processing " $input_png
 
 convert $input_png -resize $preview_width $output_jpg_preview
 
-convert $input_png -quality 70 -resize $crop_width -geometry ${crop_width}x${crop_height}^ -gravity north -crop ${crop_width}x${crop_height}+0+0 $output_jpg_cropped
-convert $input_png -quality 80 -resize $hero_width -geometry ${hero_width}x${hero_height}^ -gravity north -crop ${hero_width}x${hero_height}+0+0 $output_jpg_hero
+convert $input_png -quality 80 -resize $crop_width -geometry ${crop_width}x${crop_height}^ -gravity north -crop ${crop_width}x${crop_height}+0+0 $output_jpg_cropped
+convert $input_png -quality 85 -resize $hero_width -geometry ${hero_width}x${hero_height}^ -gravity north -crop ${hero_width}x${hero_height}+0+0 $output_jpg_hero
 
