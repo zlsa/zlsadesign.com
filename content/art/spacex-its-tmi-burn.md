@@ -76,22 +76,22 @@ launch to LEO, this time remaining in orbit for two weeks. During this
 time, the crew of the newly christened _Heart of Gold_ performed
 multiple EVAs with both SpaceX's zero-G EVA suit as well as the Mars
 surface suit. At the end of its mission, the _Heart of Gold_ returned
-to Earth; over the next two months, every part of it was inspected as
-SpaceX performed the final preparations necessary on the 220 metric
-tons of payload.
+to Earth; over the next two months, every part of it was carefully
+inspected to make sure it was ready for the trip to Mars.
 
 On December 24, 2028, the Mars-bound _Heart of Gold_ was launched into
 a parking orbit. Over the next one and a half weeks, the same
-propellant tanker flew into orbit and transferred its propellant to
-the _Heart of Gold_, preparing it for the energy-intensive TMI
-burn. On January 2, 2029, with full propellant tanks and every system
-performing nominally, the _Heart of Gold_ started up its six vacuum
-Raptor engines to begin its 4-month trip to Mars.
+propellant tanker flies into orbit five times and transfers its
+propellant to the _Heart of Gold_, preparing it for the
+energy-intensive TMI burn. On January 2, 2029, with full propellant
+tanks and every system performing nominally, the _Heart of Gold_
+starts up its six vacuum Raptor engines to begin the TMI burn that
+sends it on its 4-month trip to Mars.
 
 ---
 
-Two years later, the first human sets foot on Mars in humanity's next
-giant leap into the unknown.
+Two years later arriving on `S2005`, the first human sets foot on Mars
+in humanity's next giant leap into the unknown.
 
 # Credits
 
