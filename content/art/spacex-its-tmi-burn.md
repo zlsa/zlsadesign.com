@@ -100,10 +100,3 @@ Unit, NASA Johnson Space
 Center. [Direct link to the image](https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS049&roll=E&frame=1249)
 
 The location shown is Winnipeg, Canada.
-
-## Psst!
-
-You seem really interested in this illustration and the story behind
-it. I've just launched my
-[Patreon page](https://www.patreon.com/zlsa), where you can support me
-in exchange for rewards such as access to early previews of my art. Thanks for the help!
