@@ -18,7 +18,7 @@ tags = [
 
 [art]
 image = "spacex-its-tmi-burn"
-redbubble = "https://www.redbubble.com/people/zlsa/works/23707636-spacex-red-dragon-at-mars"
+redbubble = "https://www.redbubble.com/people/zlsa/works/26218790-heart-of-gold-performing-its-trans-mars-injection-burn"
 
 +++
 
@@ -100,3 +100,10 @@ Unit, NASA Johnson Space
 Center. [Direct link to the image](https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS049&roll=E&frame=1249)
 
 The location shown is Winnipeg, Canada.
+
+## Psst!
+
+You seem really interested in this illustration and the story behind
+it. I've just launched my
+[Patreon page](https://www.patreon.com/zlsa), where you can support me
+in exchange for rewards such as access to early previews of my art. Thanks for the help!

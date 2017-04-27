@@ -17,7 +17,7 @@ app that has annoying ads, so in reciprocation, everything I make is
 # Support me on Patreon instead!
 
 If you support me on Patreon, you'll get rewarded for it. See my
-[Patreon page](https://patreon.com/preview/3f0bcde95d1348d5b0b6b1185fcd3a82).
+[Patreon page](https://patreon.com/zlsa/).
 
 Already supporting me? Thanks for the help! Your name is now listed on [my website](/patreon).
 
