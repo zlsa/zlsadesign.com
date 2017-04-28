@@ -19,7 +19,7 @@ but it's only necessary for 3D work; and I was (understandably) wary
 to spend money on a new computer without any way to recover the costs.
 
 So I've made a
-[Patreon page](https://zlsadesign.com/art/spacex-its-tmi-burn/). Apparently,
+[Patreon page](https://patreon.com/zlsa/). Apparently,
 people actually like my work enough to send me some money for it;
 until now, the only way was via RedBubble (where I get 30% of the
 total item cost), or direct donations. Hopefully, there will be more
