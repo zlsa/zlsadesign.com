@@ -32,6 +32,8 @@ Check out the interview on
 [twitch.tv](https://www.twitch.tv/videos/139688943), and the
 [post in the SpaceX subreddit](https://redd.it/6b043z).
 
+<!--more-->
+
 # Transcription
 
 > We have a little, like, amateur setup... Um, so I'll just give, like, a quick introduction basically; I'd like to introduce Mr. Tom Mueller, who is the cofounder and Chief Tech Officer at SpaceX; he's the champion of the Occupy Mars movement, which I am proudly representing on my shirt; and the brains behind SpaceX's rocket designs, as one of the world's foremost rocket engine designers, he's responsible for developing propulsions systems and engines for both the Falcon launch vehicles and the Dragon spacecraft, and much more, obviously.
