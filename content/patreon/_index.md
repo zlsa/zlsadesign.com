@@ -10,5 +10,14 @@ in exchange, I have a
 
 # All Patrons
 
-None yet! Do you want to be the first?
+* Ethan Pogliano
+* Lachie Philipson
+* Tamás Fekete
+* Yannick Evers
+* Jack Lishman
+* Jonathan Dienhart
+
+Thank you very much! My patrons have access to behind-the-scenes
+progress reports, early previews of my illustrations, and more.
+
 [Become a Patron!](https://patreon.com/zlsa).
