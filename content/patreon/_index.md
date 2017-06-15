@@ -16,6 +16,7 @@ in exchange, I have a
 * Yannick Evers
 * Jack Lishman
 * Jonathan Dienhart
+* Petr Melechin
 
 Thank you very much! My patrons have access to behind-the-scenes
 progress reports, early previews of my illustrations, and more.

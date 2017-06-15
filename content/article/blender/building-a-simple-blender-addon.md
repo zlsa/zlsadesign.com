@@ -166,6 +166,14 @@ bl_info = {
 # ...
 ```
 
+# Enabling the addon within Blender
+
+Open Blender's User Preferences (either via `File > User Preferences`
+or with the `Ctrl-Alt-U` keybinding.) Click on the "Add-Ons" button,
+then type the name of your addon into the search box. If your addon
+shows up, then enable it; if not, you messed up the file locations
+above.
+
 # Creating an `Operator`
 
 "Operator" is Blender's name for a single operation; for example,
@@ -183,7 +191,9 @@ An `Operator` is simply a class that extends `bpy.types.Operator`
 Python identifier, and `bl_label` to the user-facing name of the
 operator. For inspiration, hover over buttons in Blender to see what
 the built-in operators are called. You can also set `bl_description`
-to provide a description of the operator. More information available at [Blender's official documentation.](https://docs.blender.org/api/blender_python_api_current/bpy.types.Operator.html#bpy.types.Operator)
+to provide a description of the operator. More information is
+available at
+[Blender's official documentation.](https://docs.blender.org/api/blender_python_api_current/bpy.types.Operator.html#bpy.types.Operator)
 
 {{< language "Python" "object_duplicate_translate.py" >}}
 
@@ -228,14 +238,6 @@ the UI to run the "Duplicate" operator; a good place is in the
 Objects" is called `object.duplicate_move` (the `bpy.ops` in front
 part just specifies that this is an operator.)
 
-But wait! By default, Blender duplicates the object and immediately
-switches to the translate operator; how do we cancel that from within
-code? It turns out that we don't have to, since we'll call the direct
-Python function while Blender calls the modal function. This is a
-complicated discussion for another time, but suffice it to say that
-operations will not perform modal actions (such as mouse-guided
-extrude, translate, rotate, etc.) when called from Python.
-
 ## Using the documentation
 
 Visit
@@ -264,6 +266,14 @@ easier to understand than `object.duplicate_move`.
 
 So now that we've determined that the "Duplicate Objects" operator is
 called `object.duplicate`, we just need to call it.
+
+But wait! By default, Blender duplicates the object and immediately
+switches to the translate operator; how do we cancel that from within
+code? It turns out that we don't have to, since we'll call the direct
+Python function while Blender calls the modal function. This is a
+complicated discussion for another time, but suffice it to say that
+operations will not perform modal actions (such as mouse-guided
+extrude, translate, rotate, etc.) when called from Python.
 
 {{< language "Python" "object_duplicate_translate.py" >}}
 
