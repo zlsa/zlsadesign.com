@@ -33,7 +33,7 @@ produces high-quality normal maps.
 Have you found a mistake in an infographic or article? I welcome
 corrections and suggestions on anything. No matter what, you can email
 me at [jonross.zlsa@gmail.com](mailto:jonross.zlsa@gmail.com);
-however, for my projects on GitHub, it will be faster if you open a
+however, for my projects on [GitHub](https://github.com/zlsa/), it will be faster if you open a
 new issue on that project instead of emailing me. I'll fix the
 mistakes as fast as I can.
 
