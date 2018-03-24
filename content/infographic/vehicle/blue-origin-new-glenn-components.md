@@ -1,6 +1,7 @@
 +++
 title = "Blue Origin New Glenn Components"
 author = "Jon Ross"
+draft = true
 
 #categories = ["infographic"]
 

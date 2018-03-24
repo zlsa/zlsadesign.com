@@ -2,6 +2,8 @@
 title = "SpaceX Falcon 9 Booster Trajectory compared to Blue Origin's New Shepard"
 author = "Jon Ross"
 
+draft = true
+
 #categories = ["infographic"]
 
 date = "2016-12-16"
