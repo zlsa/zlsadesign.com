@@ -21,7 +21,7 @@ tags = [
 +++
 
 "Good morning, Dr. Isaac Hawkins. Welcome to Lancelot Defense Systems, Marin
-branch. The outside temperature is 12 degrees; wind speed 3 knots; overcast.
+facility. The outside temperature is 12 degrees; wind speed 3 knots; overcast.
 Your group is currently performing above average. You are fourteen minutes
 early."
 
@@ -104,4 +104,19 @@ protect instinctively.
 
 The heads-up display on the helmet flickers, then runs through its power-up
 sequence, briefly overwhelming my eyes with the brilliant light from the laser
-projectors.
+projectors. "Welcome, Dr. Isaac Hawkins," says the suit. "Airlock will be at
+an acceptable vacuum in twelve minutes. Local pressure at 0.3% of surface."
+
+He twiddled his thumbs as the airlock pumps kicked in and the last dregs of
+air were forcibly removed from the confined area. The spacesuit itself was
+only a few weeks old; it was a new prototype from the Advanced Microtechnology
+Group in the Marin facility. It would theoretically support a human for
+several years before it needed to be refilled with antimatter.
+
+"Air pressure at nominal chamber level. Unlocking inner door. Prepare for
+"maintenance.
+
+The inner door popped open with a noticeable sound. My suit constantly scanned
+the outside environment, creating a 3D representation accurate to the
+millimeter. The suit itself synthesized the vibrations of the environment and
+reproduced them as sound in his helmet.
