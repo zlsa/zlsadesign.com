@@ -365,7 +365,7 @@ and so far, they've recovered 25 more boosters, by land and by sea. Two of
 these cores were converted into Falcon Heavy [side
 boosters](https://en.wikipedia.org/wiki/Falcon_Heavy_test_flight#Rocket_configuration).
 Alongside a brand-new center core, they launched the Falcon Heavy into space,
-along with its test payload: a [Tesla
+along with its test payload: Elon's [original Tesla
 Roadster](https://en.wikipedia.org/wiki/Elon_Musk%27s_Tesla_Roadster). The
 side boosters both flew back and landed at Cape Canaveral, only about 500
 meters and 3 seconds apart.
