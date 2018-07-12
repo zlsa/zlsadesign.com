@@ -2,5 +2,6 @@
 title = "Infographics"
 
 [hero]
-#background = "/background/infographics.jpg"
+background = "/background/data-dark.jpg"
+compressed = true
 +++
