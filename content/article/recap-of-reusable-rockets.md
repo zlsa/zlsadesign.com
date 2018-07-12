@@ -1,8 +1,6 @@
 +++
-title = "History of Reusable Rockets"
+title = "A Brief Recap of Reusable Rockets"
 description = "Since their inception, rockets have been thrown away after every launch. Why is this changing now?"
-
-draft = true
 
 date = "2018-07-12"
 
@@ -23,19 +21,16 @@ tags = [
      ]
 
 [hero]
-background = "/background/data-grayscale.jpg"
-compressed = true
+background = "none"
 
 +++
-
 {{< img
 class="right"
-src="/article/history-of-reusable-rockets/media/space-shuttle-launch.jpg"
+src="/article/recap-of-reusable-rockets/media/space-shuttle-launch.jpg"
 caption="The Space Shuttle lifts off."
 attr="NASA"
 attrlink="https://spaceflight.nasa.gov/gallery/images/shuttle/sts-120/html/sts120-s-028.html"
 >}}
-
 In the decades since the first rockets flew, the only launch vehicle that was
 capable of any kind of reuse was the Space Shuttle. For various reasons, the
 Space Shuttle cost far more to fly than an equivalent non-reusable rocket; it
@@ -55,7 +50,7 @@ the launch vehicle. In the end, none of these proposals were ever implemented.
 
 {{< img
 class="left"
-src="/article/history-of-reusable-rockets/media/dc-x-flight-4.jpg"
+src="/article/recap-of-reusable-rockets/media/dc-x-flight-4.jpg"
 caption="The DC-X on its fourth flight"
 attr="McDonnell Douglas"
 >}}
@@ -121,7 +116,7 @@ ourselves."](https://www.esquire.com/news-politics/a16681/elon-musk-interview-12
 
 {{< img
 class="left"
-src="/article/history-of-reusable-rockets/media/falcon-1-flight-4.jpg"
+src="/article/recap-of-reusable-rockets/media/falcon-1-flight-4.jpg"
 caption="The SpaceX Falcon 1 lifts off from Omelek Island"
 attr="NASA"
 attrlink="https://www.nasa.gov/audience/foreducators/rocketry/imagegallery/rpd_spaceX.jpg.html"
@@ -172,7 +167,7 @@ when SpaceX decided to design recovery systems for the Falcon 9.
 
 {{< img
 class="right"
-src="/article/history-of-reusable-rockets/media/falcon9-v1.0-launch.jpg"
+src="/article/recap-of-reusable-rockets/media/falcon9-v1.0-launch.jpg"
 caption="The CRS-2 Falcon 9 lifts off, carrying the Dragon capsule to the ISS."
 attr="NASA"
 attrlink="https://commons.wikimedia.org/wiki/File:SpX_CRS-2_launch_-_further_-_cropped.jpg"
@@ -207,7 +202,7 @@ and touch down on land only a few kilometers from its launchpad.
 
 {{< img
 class="left"
-src="/article/history-of-reusable-rockets/media/grasshopper.jpg"
+src="/article/recap-of-reusable-rockets/media/grasshopper.jpg"
 caption="The Grasshopper testbed, in 2012. Note the mechanic standing next to the landing leg."
 attr="Steve Jurvetson"
 attrlink="https://www.flickr.com/photos/jurvetson/7971310054/in/photostream/"
@@ -232,7 +227,7 @@ the vehicle was retired and replaced with the more capable F9R-Dev1.
 
 {{< img
 class="left"
-src="/article/history-of-reusable-rockets/media/f9r-dev1.jpg"
+src="/article/recap-of-reusable-rockets/media/f9r-dev1.jpg"
 caption="The F9R-Dev1 testbed in-flight. Note the four landing legs."
 attr="SpaceX"
 attrlink="https://www.flickr.com/photos/spacex/17127808431/"
@@ -257,7 +252,7 @@ gently, it broke apart when it hit the ocean, as expected.
 
 {{< img
 class="right"
-src="/article/history-of-reusable-rockets/media/jrti.jpg"
+src="/article/recap-of-reusable-rockets/media/jrti.jpg"
 caption="'Just Read the Instructions', SpaceX's first droneship."
 attr="SpaceX"
 attrlink="https://www.flickr.com/photos/spacex/17127808431/"
@@ -265,7 +260,7 @@ attrlink="https://www.flickr.com/photos/spacex/17127808431/"
 
 {{< img
 class="right"
-src="/article/history-of-reusable-rockets/media/new-shepard-landed.jpg"
+src="/article/recap-of-reusable-rockets/media/new-shepard-landed.jpg"
 caption="The NS2 booster, the first ever rocket to reach space and land vertically."
 attr="Blue Origin"
 attrlink="https://www.blueorigin.com/gallery"
@@ -281,7 +276,7 @@ the CRS-5 mission.
 
 {{< img
 class="left"
-src="/article/history-of-reusable-rockets/media/crs5-crash.jpg"
+src="/article/recap-of-reusable-rockets/media/crs5-crash.jpg"
 caption="The CRS-5 booster smashing into JRTI"
 attr="SpaceX"
 attrlink="https://vine.co/v/OjqeYWWpVWK"
@@ -332,7 +327,7 @@ the propulsion module can be recovered and reused for future flights.
 
 {{< img
 class="right"
-src="/article/history-of-reusable-rockets/media/og2m2-landed.jpg"
+src="/article/recap-of-reusable-rockets/media/og2m2-landed.jpg"
 caption="The Orbcomm OG2-M2 booster after its landing."
 attr="SpaceX"
 attrlink="https://www.flickr.com/photos/spacex/23273082823/"
@@ -340,7 +335,7 @@ attrlink="https://www.flickr.com/photos/spacex/23273082823/"
 
 {{< img
 class="left"
-src="/article/history-of-reusable-rockets/media/iridium-6-fairing-parafoil.jpg"
+src="/article/recap-of-reusable-rockets/media/iridium-6-fairing-parafoil.jpg"
 caption="The Iridium-6 fairing just misses Mr. Steven, SpaceX's fairing recovery ship"
 attr="SpaceX"
 attrlink="https://twitter.com/SpaceX/status/1002268835175518208"
@@ -386,7 +381,7 @@ amount of floor space in the factory to build.
 
 {{< img
 class="left"
-src="/article/history-of-reusable-rockets/media/new-shepard-abort.jpg"
+src="/article/recap-of-reusable-rockets/media/new-shepard-abort.jpg"
 caption="The NS2 booster, underneath the crew capsule at the moment of abort motor ignition."
 attr="Blue Origin"
 attrlink="https://www.blueorigin.com/gallery"
