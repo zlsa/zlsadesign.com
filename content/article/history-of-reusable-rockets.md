@@ -1,10 +1,12 @@
 +++
-title = "Why is everybody building reusable rockets?"
+title = "History of Reusable Rockets"
 description = "Since their inception, rockets have been thrown away after every launch. Why is this changing now?"
 
 draft = true
 
-date = "2017-03-31"
+date = "2018-07-12"
+
+story = true
 
 categories = ["writing"]
 
@@ -19,78 +21,93 @@ tags = [
      "blue-origin-new-glenn",
      "blue-origin-new-glenn-stage-one",
      ]
-     
-+++
 
-# Since their inception, rockets have been thrown away after every launch. Why is this changing now?
+[hero]
+background = "none"
+
++++
 
 {{< img
 class="right"
-src="/article/why-is-everybody-building-reusable-rockets/media/space-shuttle-launch.jpg"
+src="/article/history-of-reusable-rockets/media/space-shuttle-launch.jpg"
 caption="The Space Shuttle lifts off."
 attr="NASA"
 attrlink="https://spaceflight.nasa.gov/gallery/images/shuttle/sts-120/html/sts120-s-028.html"
 >}}
 
-In the decades since the first experimental rockets flew, the only
-launch vehicle that was capable of any kind of reuse was the Space
-Shuttle. For various reasons, the Space Shuttle cost far more to fly
-than an equivalent non-reusable rocket; it did its job well, but in
-the end, it was too expensive to refurbish and rebuild the orbiter
-after every launch. In 2011, the Space Shuttle program came to an end.
+In the decades since the first rockets flew, the only launch vehicle that was
+capable of any kind of reuse was the Space Shuttle. For various reasons, the
+Space Shuttle cost far more to fly than an equivalent non-reusable rocket; it
+did its job well, but in the end, it was too expensive to refurbish and
+rebuild the orbiter after every launch. In 2011, the Space Shuttle program
+came to an end.
 
 <!--more-->
 
-Reusable rockets aren't new. Although SpaceX was the first company to
+Reusable rockets aren't new. Although SpaceX was the
+{{< footnote
+link="https://en.wikipedia.org/wiki/Falcon_9_flight_20"
+>}}first company to
 successfully recover the first stage of an orbital-class rocket in
-December of 2015, reusable rockets have been considered since the
+December of 2015{{</ footnote >}}, reusable rockets have been considered since the
 1960s. Even the Saturn V, the rocket that launched humans to the Moon,
-was the subject of many proposals that would enable partial recovery
+was the subject of
+{{< footnote
+link="http://www.collectspace.com/ubb/Forum29/HTML/000880.html"
+>}}
+multiple proposals that would enable partial recovery{{</ footnote >}}
 of the launch vehicle. In the end, none of these proposals were ever
 implemented.
 
 In the 1990s, McDonnell Douglas began testing the
 [DC-X](https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-X), an
 experimental testbed for building rockets capable of vertical landing
-and takeoff, or VTOL. The DC-X vehicle first flew in 1993, and over
-the next three years it flew eleven more times. These were all small
-hops of only one or two kilometers; the final flight reached an
-altitude of only 2.5 kilometers. Even though it never demonstrated
-high-altitude flights, it proved that building a VTOL rocket was
-feasible.
+and takeoff, or VTOL. The DC-X vehicle
+{{< footnote
+link="http://www.astronautix.com/d/dc-x.html"
+>}}
+first flew in 1993{{</ footnote >}}, and over the next three years it flew
+eleven more times. These were all small hops of only one or two kilometers;
+the final flight reached an altitude of only 2.5 kilometers. Even though it
+never demonstrated high-altitude flights, it proved that building a VTOL
+rocket was possible.
 
-The DC-X program was shelved when a landing leg failed to deploy and
-the rocket tipped over after landing. NASA did not have the budget to
-devote to the DC-X program, and it was cancelled in 1996. Several of
-the remaining DC-X engineers are
-[now involved](http://www.airspacemag.com/space/black-day-at-white-sands-1381694/)
-with [Blue Origin](/tags/blue-origin), who is working on its own
-reusable rockets today.
+The DC-X program was shelved when a
+{{< footnote
+link="https://www.youtube.com/watch?v=Kk-gGtC7xZ4"
+>}}landing leg failed to deploy and the
+rocket tipped over after landing, damaging the aeroshell{{</ footnote >}}.
+NASA did not have the budget to devote to the DC-X program, and it was
+cancelled in 1996. Several of the remaining DC-X engineers are
+{{< footnote
+link="https://www.airspacemag.com/space/black-day-at-white-sands-1381694/"
+>}}now involved{{</ footnote >}} with [Blue Origin](/tags/blue-origin),
+which is working on its own reusable rockets today.
 
 ---
 
 Now, for an explanation of why it's so easy to reuse airplanes and
 cars and why it's so difficult to reuse rockets.
 
-Rockets that reach orbit need to fly very, very fast. There is a huge
-difference between reaching _space_, which is only 100km away from sea
-level; and _orbit_, which requires a velocity of at least 7.8
-kilometers per second. That's 22 times the speed of sound. The only
-way to get that fast is to bring a lot of fuel with you, and to bring
-fuel you need a place to store it.
+Rockets that reach orbit need to fly very, very fast.
+There is a huge difference between reaching _space_,
+which is only
+{{< footnote link="https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line" title="The Kármán line" >}}100km above sea level{{</ footnote >}};
+and _orbit_, which requires a velocity of at least 7.6 kilometers per second.
+That's 22 times the speed of sound. The only way to get that fast is to bring
+a lot of fuel with you, and to bring fuel you need a place to store it.
 
-At liftoff, modern rockets are about 90% fuel by mass. Of the
-remaining 10% mass, the actual payload, the part that actually reaches
-orbit, is usually less than 3%. The lighter the rocket, the heavier
-the payload it can launch into orbit. Everything you add that helps
-make a rocket reusable also reduces the maximum payload of that
-rocket.
+At liftoff, modern rockets are about 90% fuel by mass. Of the remaining 10%
+mass, the useful payload is usually less than 30% (or 3% of the total vehicle
+mass at liftoff.) The lighter the rocket, the heavier the payload it can
+launch into orbit. Everything you add to make a rocket reusable also reduces
+the maximum payload.
 
 This has made reusable rockets a difficult pill to swallow. The
 payload capacity would need to be cut nearly in half to make even the
 first stage reusable, and then you would need to prove that the stage
 could reliably land and fly again with minimal maintenance. It's a
-huge gamble that might not even work out.
+huge financial gamble that might not even work out.
 
 # SpaceX's Recovery Proving Grounds
 
@@ -131,7 +148,7 @@ decided to switch over to building and launching their new Falcon 9.
 
 {{< img
 class="right"
-src="/article/why-is-everybody-building-reusable-rockets/media/falcon9-v1.0-launch.jpg"
+src="/article/history-of-reusable-rockets/media/falcon9-v1.0-launch.jpg"
 caption="The CRS-2 Falcon 9 lifts off, carrying the Dragon capsule to the ISS."
 attr="NASA"
 attrlink="https://commons.wikimedia.org/wiki/File:SpX_CRS-2_launch_-_further_-_cropped.jpg"
@@ -166,7 +183,7 @@ and touch down on land only a few kilometers from its launchpad.
 
 {{< img
 class="left"
-src="/article/why-is-everybody-building-reusable-rockets/media/grasshopper.jpg"
+src="/article/history-of-reusable-rockets/media/grasshopper.jpg"
 caption="The Grasshopper testbed, in 2012. Note the mechanic standing next to the landing leg."
 attr="Steve Jurvetson"
 attrlink="https://www.flickr.com/photos/jurvetson/7971310054/in/photostream/"
@@ -189,7 +206,7 @@ meters, the vehicle was retired and replaced with the F9R-Dev1.
 
 {{< img
 class="left"
-src="/article/why-is-everybody-building-reusable-rockets/media/f9r-dev1.jpg"
+src="/article/history-of-reusable-rockets/media/f9r-dev1.jpg"
 caption="The F9R-Dev1 testbed in-flight. Note the four landing legs."
 attr="SpaceX"
 attrlink="https://www.flickr.com/photos/spacex/17127808431/"
@@ -215,7 +232,7 @@ hit the ocean, as expected.
 
 {{< img
 class="left"
-src="/article/why-is-everybody-building-reusable-rockets/media/jrti.jpg"
+src="/article/history-of-reusable-rockets/media/jrti.jpg"
 caption="'Just Read the Instructions', SpaceX's first droneship."
 attr="SpaceX"
 attrlink="https://www.flickr.com/photos/spacex/17127808431/"
@@ -223,7 +240,7 @@ attrlink="https://www.flickr.com/photos/spacex/17127808431/"
 
 {{< img
 class="right"
-src="/article/why-is-everybody-building-reusable-rockets/media/new-shepard-landed.jpg"
+src="/article/history-of-reusable-rockets/media/new-shepard-landed.jpg"
 caption="The NS2 booster, the first ever rocket to reach space and land vertically."
 attr="Blue Origin"
 attrlink="https://www.blueorigin.com/gallery"
@@ -239,7 +256,7 @@ the CRS-5 mission.
 
 {{< img
 class="left"
-src="/article/why-is-everybody-building-reusable-rockets/media/crs5-crash.jpg"
+src="/article/history-of-reusable-rockets/media/crs5-crash.jpg"
 caption="The CRS-5 booster smashing into JRTI"
 attr="SpaceX"
 attrlink="https://vine.co/v/OjqeYWWpVWK"
@@ -289,7 +306,7 @@ the propulsion module can be recovered and reused for future flights.
 
 {{< img
 class="right"
-src="/article/why-is-everybody-building-reusable-rockets/media/og2m2-landed.jpg"
+src="/article/history-of-reusable-rockets/media/og2m2-landed.jpg"
 caption="The Orbcomm OG2-M2 booster after its landing."
 attr="SpaceX"
 attrlink="https://www.flickr.com/photos/spacex/23273082823/"
@@ -320,7 +337,7 @@ a recovered booster from an orbital-class launch vehicle.
 
 {{< img
 class="left"
-src="/article/why-is-everybody-building-reusable-rockets/media/new-shepard-abort.jpg"
+src="/article/history-of-reusable-rockets/media/new-shepard-abort.jpg"
 caption="The NS2 booster, underneath the crew capsule at the moment of abort motor ignition."
 attr="Blue Origin"
 attrlink="https://www.blueorigin.com/gallery"
@@ -361,3 +378,4 @@ spaceflight, where launches don't cost tens or hundreds of millions of
 dollars; where you don't need to be a giant international corporation
 to launch your satellites. And just maybe, a future where humanity
 lives on both Earth and Mars.
+

@@ -49,12 +49,12 @@ fusion reactor; a walk I take twice a day. The elevator doesn't get me all the
 way; for safety reasons, there are only three elevator doors on each A-class
 level, and they're placed evenly between the chamber doors.
 
-The vinyl floor squeaks as I step along it, the ever-vigilant cameras
-categorizing my every move. I live on the surface of the island, in a concrete
-bunker that's been shoddily painted and clad with aluminum panels designed to
-resemble the typical housing of the Bay Area. Despite the proximity, I like to
-be early in case of any delays along the way. The elevators are busy for quite
-a while every time the shifts change.
+The shiny vinyl floor gives a bit as I step along it, the ever-vigilant
+cameras categorizing my every move. I live on the surface of the island, in a
+concrete bunker that's been shoddily painted and clad with aluminum panels
+designed to resemble the typical housing of the Bay Area. Despite the
+proximity, I like to be early in case of any delays along the way. The
+elevators are busy for quite a while every time the shifts change.
 
 There are defense systems integrated into the walls, next to the cameras. The
 Pentagon has granted Lancelot Defense Systems a practically unlimited sum of
@@ -63,12 +63,6 @@ systems. The work we're doing here is beyond top-secret; the information we
 have would make it possible for nearly any country of any size to create and
 refine antimatter. Our job is to make sure we have even better technology, if
 and when the information here gets out.
-
-"The entrance is four meters ahead, Dr. Isaac Hawkins. Do not forget to
-perform biometric authentication when you enter the chamber. You have
-forgotten to perform this critical task for three days in a row, requiring the
-intervention of security personnel. You are to be informed that a fourth
-violation _will_ appear on your record."
 
 I nod and turn the corner to the bright alcove containing the entrance to
 Chamber 3. I silently place my palm against the biometric sensor; I feel a
@@ -114,7 +108,7 @@ Group in the Marin facility. It would theoretically support a human for
 several years before it needed to be refilled with antimatter.
 
 "Air pressure at nominal chamber level. Unlocking inner door. Prepare for
-"maintenance.
+maintenance."
 
 The inner door popped open with a noticeable sound. My suit constantly scanned
 the outside environment, creating a 3D representation accurate to the
