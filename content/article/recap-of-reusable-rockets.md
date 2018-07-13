@@ -4,7 +4,8 @@ description = "Since their inception, rockets have been thrown away after every 
 
 summary = "In the decades since the first rockets flew, the only launch vehicle capable of any kind of reuse was the Space Shuttle, which required in-depth inspection and refurbishment after each flight. Meanwhile, SpaceX and Blue Origin, among others, are revolutionizing the space launch industry and building rockets that can – and have – been reused. What's changed, and why is reusability coming back?"
 
-date = "2018-07-12"
+date = "2018-07-11"
+lastmod = "2018-07-13"
 
 story = true
 
@@ -379,8 +380,8 @@ boosters](https://en.wikipedia.org/wiki/Falcon_Heavy_test_flight#Rocket_configur
 Alongside a brand-new center core, they launched the Falcon Heavy into space,
 along with its test payload: Elon's [original Tesla
 Roadster](https://en.wikipedia.org/wiki/Elon_Musk%27s_Tesla_Roadster). The
-side boosters both flew back and landed at Cape Canaveral, only about 500
-meters and 3 seconds apart.
+side boosters both flew back and landed at Cape Canaveral, about 100 meters and
+3 seconds apart.
 
 While it's not economically sensible to recover and reuse the Falcon 9 upper
 stage, SpaceX is working hard at recovering the Falcon 9 fairings. Combined,
