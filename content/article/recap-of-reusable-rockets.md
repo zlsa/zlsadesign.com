@@ -2,6 +2,8 @@
 title = "A Brief Recap of Reusable Rockets"
 description = "Since their inception, rockets have been thrown away after every launch. Why is this changing now?"
 
+summary = "In the decades since the first rockets flew, the only launch vehicle capable of any kind of reuse was the Space Shuttle, which required in-depth inspection and refurbishment after each flight. Meanwhile, SpaceX and Blue Origin, among others, are revolutionizing the space launch industry and building rockets that can – and have – been reused. What's changed, and why is reusability coming back?"
+
 date = "2018-07-12"
 
 story = true
@@ -24,21 +26,29 @@ tags = [
 background = "none"
 
 +++
-{{< img
-class="right"
-src="/article/recap-of-reusable-rockets/media/space-shuttle-launch.jpg"
-caption="The Space Shuttle lifts off."
-attr="NASA"
-attrlink="https://spaceflight.nasa.gov/gallery/images/shuttle/sts-120/html/sts120-s-028.html"
->}}
-In the decades since the first rockets flew, the only launch vehicle that was
-capable of any kind of reuse was the Space Shuttle. For various reasons, the
-Space Shuttle cost far more to fly than an equivalent non-reusable rocket; it
-did its job well, but in the end, it was too expensive to refurbish and
-rebuild the orbiter after every launch. In 2011, the Space Shuttle program
-came to an end.
 
-<!--more-->
+{{< img class="right"
+src="/article/recap-of-reusable-rockets/media/space-shuttle-launch.jpg"
+caption="The Space Shuttle lifts off." attr="NASA"
+attrlink="https://spaceflight.nasa.gov/gallery/images/shuttle/sts-120/html/sts120-s-028.html"
+>}} In the decades since the first rockets flew, the only launch vehicle that
+was capable of any kind of reuse was the Space Shuttle. And while the orbiter
+and the solid rocket boosters were recovered after every flight, [in-depth
+inspection and refurbishment was
+required](https://en.wikipedia.org/wiki/Criticism_of_the_Space_Shuttle_program#Shuttle_operations)
+after each flight.
+
+For these reasons, the Space Shuttle cost far more to fly than an equivalent
+non-reusable rocket. With a total program cost of $196 billion and 135
+launches, the Shuttle cost almost $1.5 billion per launch. (It was initially
+expected to cost about $54 million per launch, adjusted for the USD in 2011.)
+
+One of the major advantages of the Shuttle when compared to other vehicles was
+its ability to launch both crew and cargo on the same flight. Today, no launch
+vehicle has the came capability, and there are no serious plans for a
+spacecraft that launches crew and cargo at once. Despite this advantage, it
+was just too expensive, complex, and unsafe. In 2011, the Space Shuttle
+program came to an end.
 
 Reusable rockets aren't new. Although SpaceX was the [first company to
 successfully recover the first stage of an orbital-class rocket in December of
