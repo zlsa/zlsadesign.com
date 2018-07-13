@@ -36,19 +36,20 @@ was capable of any kind of reuse was the Space Shuttle. And while the orbiter
 and the solid rocket boosters were recovered after every flight, [in-depth
 inspection and refurbishment was
 required](https://en.wikipedia.org/wiki/Criticism_of_the_Space_Shuttle_program#Shuttle_operations)
-after each flight.
-
-For these reasons, the Space Shuttle cost far more to fly than an equivalent
-non-reusable rocket. With a total program cost of $196 billion and 135
-launches, the Shuttle cost almost $1.5 billion per launch. (It was initially
-expected to cost about $54 million per launch, adjusted for the USD in 2011.)
+after each flight. For these reasons, the Space Shuttle cost far more to fly
+than an equivalent non-reusable rocket. With a total program cost of $196
+billion and 135 launches, the Shuttle cost almost $1.5 billion per launch. (It
+was initially expected to cost about $54 million per launch, adjusted for the
+USD in 2011.)
 
 One of the major advantages of the Shuttle when compared to other vehicles was
 its ability to launch both crew and cargo on the same flight. Today, no launch
-vehicle has the came capability, and there are no serious plans for a
-spacecraft that launches crew and cargo at once. Despite this advantage, it
-was just too expensive, complex, and unsafe. In 2011, the Space Shuttle
-program came to an end.
+vehicle has the same capability, and there are no serious plans for a
+spacecraft that launches crew and cargo at once. Despite this advantage, the
+Shuttle was just too expensive, complex, and unsafe; and in 2011, the Space
+Shuttle program came to an end.
+
+***
 
 Reusable rockets aren't new. Although SpaceX was the [first company to
 successfully recover the first stage of an orbital-class rocket in December of
