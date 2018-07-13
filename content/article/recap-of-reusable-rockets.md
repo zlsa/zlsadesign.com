@@ -132,10 +132,11 @@ launch price reductions that would make space more accessible.
 
 But before SpaceX could tackle reusability, they needed to build a rocket that
 could reach orbit. Their first rocket, the Falcon 1, was a 21-meter tall
-two-stage rocket. Its maiden launch, in 2006, [ended in failure
-when a corroded nut caused an engine fire](https://en.wikipedia.org/wiki/Falcon_1#First_flight); the rocket fell
-back into the ocean less than a minute after liftoff. The cause was eventually
-traced to a bolt that had corroded after exposure to saltwater spray.
+two-stage rocket. Its maiden launch, in 2006, [ended in failure after an
+engine fire](https://en.wikipedia.org/wiki/Falcon_1#First_flight); the rocket
+fell back into the ocean less than a minute after liftoff. The cause was
+eventually traced to a nut that had corroded after exposure to saltwater
+spray.
 
 The next two launches did better, with Flight 3 nearly reaching orbit. At this
 point, though, SpaceX was running low on money for a fourth flight, and Elon
