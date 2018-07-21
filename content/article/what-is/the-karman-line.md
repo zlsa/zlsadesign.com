@@ -4,6 +4,7 @@ description = "You may have heard people refer to the \"edge of space\" – 100k
 
 date = "2018-07-12"
 
+draft = true
 story = true
 
 categories = ["writing"]
