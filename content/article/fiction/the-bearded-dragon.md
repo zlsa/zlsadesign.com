@@ -9,6 +9,8 @@ lastmod = "2018-11-26"
 
 story = true
 
+draft = true
+
 categories = ["writing"]
 
 tags = [
