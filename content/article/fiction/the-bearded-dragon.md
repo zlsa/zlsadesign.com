@@ -262,9 +262,9 @@ how I felt.
 Up high, the night sky was beautiful. The faint rainbow brushstrokes of color
 washing over bright pinpricks of the stars beneath and the slash of the Milky
 Way. This far from the city, the ground was dark, and the only light we'd find
-was the ocassional yellow wobble of a car on some remote mountain passage. Up
+was the occasional yellow wobble of a car on some remote mountain passage. Up
 high, far above us even now, were the dark trails of jet airplanes
-criscrossing the sky. I caught Clyde looking up longingly at them, and I
+crisscrossing the sky. I caught Clyde looking up longingly at them, and I
 patted her to let her know I understood.
 
 We coasted for hours, just Clyde and I, until the horizon went from black to
