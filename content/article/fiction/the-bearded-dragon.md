@@ -2,14 +2,12 @@
 title = "The Bearded Dragon"
 description = "I didn't want to move to Riverside. I didn't want to say goodbye to my child home, to the friends I'd made, the fun we had."
 
-summary = "I didn't want to move to Riverside. I didn't want to say goodbye to my child home, to the friends I'd made, the fun we had."
+summary = "Three months later, for my birthday, my parents' gift was a lizard – a bearded dragon. My parents had even gotten a terrarium with a layer of store-bought gravel, and my dragon looked happy to be sunning on the gray rock under the heat lamp. In a fit of giddy irony, I named her Clyde."
 
 date = "2018-11-26"
 lastmod = "2018-11-26"
 
 story = true
-
-draft = true
 
 categories = ["writing"]
 
@@ -96,12 +94,12 @@ driveway, I told her that I wanted a pet lizard.
 
 ---
 
-Three months later, for my birthday, I got a bearded dragon lizard. Thanks to
-Sam, I now felt like an expert on lizards and reptiles. When my parents told
-me that the clerk had identified my new lizard as female, I could double-check
-it. (She was.) My parents had even gotten a terrarium with a layer of
-store-bought gravel, and my dragon looked happy to be sunning on the gray rock
-under the heat lamp. In a fit of giddy irony, I named her Clyde.
+Three months later, for my birthday, my parents' gift was a lizard – a bearded
+dragon. Thanks to Sam, I now felt like an expert on lizards and reptiles. When
+my parents told me that the clerk had identified my new lizard as female, I
+could double-check it. (She was.) My parents had even gotten a terrarium with
+a layer of store-bought gravel, and my dragon looked happy to be sunning on
+the gray rock under the heat lamp. In a fit of giddy irony, I named her Clyde.
 
 I thought Clyde's colors were beautiful. My parents thought her scales were
 bland and dirty; but among the beige and yellow scales there were black
