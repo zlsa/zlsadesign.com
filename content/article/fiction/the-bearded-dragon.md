@@ -198,7 +198,7 @@ to mind it at all. I got him a reptile field guide, all 512 pages of it, with
 some of my art tucked into the pages, hidden away. He smiled and awkwardly
 wrapped his arms around me, our parents watching.
 
-We went to his bedroom to watch Bonnie as she languidly climbed along the new
+We went to his bedroom to watch Bonnie as he languidly climbed along the new
 row of rocks. We'd moved some of them from Clyde's terrarium; there was no
 sense in keeping the rocks there if Clyde wasn't. I didn't realize how long we
 were sitting there, holding hands, until my mom knocked on the door and told
@@ -292,4 +292,4 @@ wished to see. But only for a moment.
 
 ---
 
-For my 15th birthday, Sam got me got me a book about the stars.
+For my 15th birthday, Sam got me a book about the stars.
