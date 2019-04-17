@@ -133,7 +133,7 @@ all eight clamps on the pallet.
 door.
 
 "Clamped and locked," I call, pulling myself upright and mopping my brow. "This
-the last one, ey?
+the last one, ey?"
 
 "Job's done!" he shouts back. "Let's debark and give the signal."
 
@@ -143,7 +143,7 @@ atmo ships, Xon couldn't afford the mass penalty of lights, so we had to wear
 headlamps to secure the pallets. We gratefully switched these off as we
 stepped onto the elevated cargo platform within the climate-controlled hangar.
 Far above us was the tangled mess of air ducts and power cables that kept the
-station running.
+atmosphere in the station clean and breathable.
 
 "Matta -- Martinez!" Hager claps us on the back as we clip ourselves to the
 cargo platform railing. "Fastest I've ever seen those atmo ships loaded up.
@@ -152,6 +152,40 @@ Like to say faster than most crews could do a vacship!" Martinez punches the
 along with the _pop--pop--pop_ sound of the magnetic stabilizer clamps
 releasing the ship.
 
+As the cargo platform returns to the station, I glance up at the crew
+access arm that's even now sliding out from the station to meet the
+ship's airlock. Crew's in a hurry to get off the station, seems like.
+
+---
+
+The station wasn't _bad_, but it wasn't that impressive, either. The
+hallways were cramped and the air had the metallic taste of cheap CO2
+scrubbers. I didn't want to stay for a minute longer than I had to; I
+wanted to keep up my reputation until the very end. The IOF was
+waiting, and so was Sanctuary Port.
+
+<!-- Interstellar Outer Factions? -->
+
+My pilot's sitting across the table from me. We're scooping at the
+flavored protein creams that are synonymous with living in low-G
+environments. It's a nasty concoction with the consistency of glue;
+but when combined with exercise, it's the simplest and cheapest way to
+keep muscle and bone mass up in low-G.
+
+My eyeset taps me, and I glance at the notification panel in the
+corner of my eye. "Looks like it's loaded up and we're good to go," I
+tell my pilot. He nods and pulls his empty cup off the table and
+tosses it towards one of the recleaning bins. It slowly traces a
+graceful arc over a table and slides straight into the slot. Without
+even looking at me, he gives me a thumbs-up gesture and pushes himself
+towards the door.
+
+He's a good pilot, and smart, too. It's such a shame he won't be
+flying much longer.
+
+
+<!--
+Thankfully, the loading crew was able to seal up the ship in less than an hour
 ---
 
 # DO NOT READ BELOW THIS LINE!
@@ -183,3 +217,4 @@ pleasant place to be. There wouldn't be any rescue crews nor defense fighters.
 We'd need to bring along
 
 Your Wasp's jump drive has been factory-tuned for general flight.
+-->
