@@ -137,20 +137,18 @@ the last one, ey?
 
 "Job's done!" he shouts back. "Let's debark and give the signal."
 
-Matta and I make our way through the grid of pallets to the cargo door. It's a
-beacon of light compared to the gritty darkness of the cargo bay. Like most
-atmo ships, Xon couldn't afford the mass penalty of lights, so we had to wear
-headlamps to secure the pallets. We gratefully switched these off as we
-stepped onto the elevated cargo platform within the climate-controlled hangar.
-Far above us was the tangled mess of air ducts and power cables that kept the
-station running.
+Matta and I make our way through the grid of pallets to the cargo door.
+It's a beacon of light compared to the gritty darkness of the cargo bay.
+Like most atmo ships, Xon couldn't afford the mass penalty of lights, so we had to wear headlamps to secure the pallets.
+We gratefully switched these off as we stepped onto the elevated cargo platform within the climate-controlled hangar.
+Far above us was the tangled mess of air ducts and power cables that kept the station running.
 
-"Matta -- Martinez!" Hager claps us on the back as we clip ourselves to the
-cargo platform railing. "Fastest I've ever seen those atmo ships loaded up.
-Like to say faster than most crews could do a vacship!" Martinez punches the
-"Down" button on the cargo platform, and it begins to pull back from the ship
-along with the _pop--pop--pop_ sound of the magnetic stabilizer clamps
-releasing the ship.
+"Matta -- Martinez!"
+Hager claps us on the back as we clip ourselves to the cargo platform railing.
+"Fastest I've ever seen those atmo ships loaded up.
+Like to say faster than most crews could do a vacship!"
+Martinez punches the "Down" button on the cargo platform, and it begins to pull back from the ship, accompanied by the _pop--pop--pop_ sound of the magnetic stabilizer clamps releasing the ship.
+
 
 ---
 
