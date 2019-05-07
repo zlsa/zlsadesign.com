@@ -91,7 +91,6 @@ It also meant it was hot as _fuck_ inside.
 "Affirm!" I shout back, pulling the clamp into place and feeling for the inset steel locking pin with the palm of my hand.
 The locking pin extends from the clamp's backside and holds the clamp shut during flight.
 On the cargo decks of vacuum ships, we'd only need to lock two or three clamps; but on atmo-capable ships, which would often fly sideways during entry, we were required to lock all eight clamps on the pallet.
-
 "Martinez? Your side all locked?" shouts Hager from the direction of the cargo door.
 
 "Clamped and locked," I call, pulling myself upright and mopping my brow.
@@ -100,6 +99,7 @@ On the cargo decks of vacuum ships, we'd only need to lock two or three clamps; 
 "Job's done!" he shouts back.
 "Let's debark and give the signal."
 
+The air in the cargo deck had the sharp metallic tang of stainless steel exposed to hard vacuum, and I was happy to get out of this ship.
 Matta and I make our way through the grid of pallets to the cargo door.
 It's a beacon of light compared to the gritty darkness of the cargo bay.
 Like most atmo ships, Xon couldn't afford the mass penalty of lights, so we had to wear headlamps to secure the pallets.
@@ -118,34 +118,83 @@ ship's airlock. Crew's in a hurry to get off the station, seems like.
 
 ---
 
-The station wasn't _bad_, but it wasn't that impressive, either.
+The orbital station wasn't _bad_, but it wasn't that impressive, either.
 The hallways were cramped and the air had the metallic taste of cheap CO2 scrubbers.
 I didn't want to stay for a minute longer than I had to; I needed to keep up my reputation until the very end.
 The Interstellar Union was watching and waiting, and so was Sanctuary Port.
 
-<!-- Interstellar Outer Factions? -->
+My pilot and I were killing time in one of the simulated outdoor areas.
+There were plants here, engineered to survive the low gravity and synthetic light.
+The greenery around the table wasn't as impressive as some planetside ports I'd been to as an emissary for the Interstellar Union, but it was perfectly serviceable for a quick chat with my pilot.
+
+"Do you know who's got the data?" he asks.
 
 My pilot's sitting across the table from me.
 We're sipping the flavored protein creams that are synonymous with living in low-G environments.
 It's a nasty concoction with the consistency of glue; but when combined with regular exercise, it's the simplest and cheapest way to keep muscle and bone mass up in low-G.
 
+"No, not at the moment," I reply, glancing up at the glint of the security camera in the corner, nestled between the conduits and piping.
+"I have my suspicions, but now's not the time or place."
+
+My motives were my own and my evidence was fabricated, of course.
+But he still believed in it, and he only had to do so for a few more days.
+He dips his head in a quick nod. "Thought so, but it's good to know all, avoid being caught flat-footed.
+The Interstellar Union doesn't like those smugglers.
+It'd be insane to try and sneak schematics out under their noses --- especially given that they're working for you, the Emissary."
+
+I agree silently. It _would_ be insane, if it were true.
+The rim planets had a long and storied reputation of smuggling schematics, ship designs, and even manufacturing plans out of the Interstellar Union.
+The Interstellar Union had an equally long history of severely punishing both the thief and those who helped them, knowingly or not.
+
+My pilot glances at his eyeset for a moment, his eyes unfocused while he checks up on the status of the _Liberator_.
+"So we're leaving immediately after cargo load, then?"
+
+"Yes," I say.
+"The sooner the better.
+I've sent an encrypted message to the IU, and they're already going to be sending investigators here.
+They'll kick off the investigation as soon as they touch station.
+We don't want to give the thief any opportunity to sabotage the _Liberator._"
+
 My eyeset taps me, and I glance at the notification panel in the corner of my eye.
 "Looks like it's loaded up and we're good to go," I tell my pilot.
 He nods and pulls his empty cup off the table and swings it towards one of the recleaning bins.
 It slowly traces a graceful arc over a table and slides straight into the slot.
-Without even looking at me, he gives me a thumbs-up gesture and pushes himself towards the door.
+Without even looking at me, he gives me a thumbs-up gesture and pushes himself towards the hangars.
 
- a really good pilot.
- 
+
+
+<!--
+Thankfully, it didn't take much time to convince him that one of the crew was smuggling precious Interstellar Union schematics to the rim planets.
+The rim planets had a long and storied reputation of data theft, and the Interstellar Union punished the both the thief and all those who helped them, knowingly or not.
+It was a risk nobody was willing to take, including my pilot.
+So we had agreed to launch early and leave the rest of the crew behind.
+When they got word of what I'd done, the Interstellar Union would investigate
+-->
+
+<!--second only to visiting the rim while flying a ship made in the Bubble.-->
+
 <!--
 
 So here's the current plot from this point:
 
-* The emissary is an old pilot, back during the expansion.
-  Her partner was on a resupply run to the rim (outer edge of the bubble) when his ship was shot down by a Arcturus Interstellar defense squadron while landing on the planet.
-  Turns out there was a civil war going on over the independence of a planet, and his ship had been misidentified as a ship owned by the uprising.
-  Arcturus eventually ceded the planet to the rebels, after they realized they couldn't keep control of a system so far out from the core.
-* The truth took a while to filter its way to the emissary.
+Karina Nilsson was an independent pilot flying under contract for Arcturus Interstellar, back during the expansion.
+Her partner was on a resupply run to the rim (outer edge of the bubble) when his ship was shot down by a Arcturus Interstellar defense squadron while landing on the planet.
+Turns out there was a civil war going on over the independence of a planet, and his ship had been misidentified by the Arcturus ground defenses as a ship owned by the 'rebels'.
+Arcturus wasn't sure if he was dead or not, so they told everyone that the ship had been lost mid-jump.
+In reality, his crashed ship was taken by the rebels, but only after he had escaped on foot.
+He hasn't been seen since; however, the planet is very amenable to long-term outdoor living, so he could very possibly be alive.
+
+Arcturus eventually ceded the planet to the rebels, after they realized they couldn't keep control of a system so far out from the core.
+
+The truth took a while to filter its way to the emissary.
+When she realized that his death had been covered up by Arcturus, she began to plan a rescue mission.
+Her long career as a skilled pilot helped her get a job as an ambassador to the Interstellar Union, and she began to perform regular flights to the planets of the rim.
+Over many years, she amassed the reputation needed to get a ship with the range necessary to reach the planet her partner was last seen on.
+
+When she was finally able to fly in the ship she needed, she staged a coup with her pilot.
+Her pilot was under the impression they were abandoning the other crew because of a supposed mole on the ship, carrying critical information for the rebels.
+However, her plan is to let him fly with her until they're a long distance from the bubble, then abandon him as soon as possible.
+
 -->
 
 <!--
