@@ -9,6 +9,7 @@ date = "2019-06-11"
 categories = ["writing"]
 
 story = true
+serif = true
 
 tags = [
      "fiction",
