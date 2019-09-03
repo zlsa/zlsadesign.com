@@ -102,7 +102,7 @@ No need to set it, then.
 
 "This will hurt," I warned, pulling the velcro loops tight at the same time.
 She gasped at the pain, but it was already done.
-She tried to sit up, but I motioned her back.
+She tried to sit up, and I motioned her back.
 "No need to overexert yourself yet," I warned.
 "I want to see my parents ---"
 
