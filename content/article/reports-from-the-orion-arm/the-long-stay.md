@@ -88,7 +88,7 @@ She was unnaturally short for a space-born, so she must have been brought up on 
 She groaned in pain at the movement as I carried her back to the cabinet.
 I gently laid her down on the floor in front of the cabinet, careful to pull her hair out from under her, and slid the first aid kit out of its slot.
 
-I wasn't a trained medic, but my parents had, and I'd learned a lot from them.
+I wasn't a trained medic, but both my parents were, and I'd learned a lot from them.
 I wished I'd paid more attention to them now.
 I unlatched and opened the suitcase-sized first aid kit and located the splints.
 On a spaceship full of weak-boned space-borns, you needed splints surprisingly often.
@@ -146,4 +146,4 @@ Both doors were rated for several atmospheres of pressure, but with the structur
 
 "Yes," she replied, her voice quiet and tinny in my helmet.
 
-I nodded my head resolutely and began to descend the ladder, my suitcase bumping into my legs.
+I nodded my head resolutely and began to descend the ladder, my suitcase bumping into my legs as I descended.

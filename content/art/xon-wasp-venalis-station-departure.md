@@ -56,7 +56,7 @@ We look forward to doing business with you.
 
 # Technical Details
 
-Everything you see in this piece was Created 100% with [Blender](/tags/blender) 2.80 and [Eevee](/tags/blender-eevee) (we don't need Cycles here!)
+Everything you see in this piece was created 100% with [Blender](/tags/blender) 2.80 and [Eevee](/tags/blender-eevee) (we don't need Cycles here!)
 The environment a cubemap, pre-rendered in Eevee; it's imported directly into the primary scene with a custom cubemap world shader to avoid the distortion from equirectangular projections.
 The ship itself is rather detailed, with panels being built into the geometry, not delineated with a normal map.
 (The panels are shrinkwrapped to a hidden "body shape" object to keep their normals consistent even when their shapes are tweaked.)
