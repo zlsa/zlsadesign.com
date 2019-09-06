@@ -72,3 +72,10 @@ Compositing and post-processing are also done in Blender, in a separate file to 
 The pre-composite render is not included in this scene; instead, it's added in the compositor to prevent Eevee's antialiasing from reducing its quality.
 The lens flares are 3D elements, positioned on top of the pre-composite render with the help of a reference image.
 Finally, the composite scene can be rendered, and the final image you see here can be saved.
+
+# Links
+
+Let me know what you think about this piece on [Twitter](https://twitter.com/zlsadesign/status/1170117948947587072) and [ArtStation](https://www.artstation.com/artwork/4b2VoY).
+And if you'd like this as a poster, check it out on [RedBubble](https://www.redbubble.com/people/zlsa/works/41013640-xon-wasp-departing-venalis-station).
+I highly appreciate all comments and critiques.
+Thank you for checking this out!
