@@ -19,7 +19,7 @@ compressed = true
 
 [art]
 image = "xon-wasp-venalis-station-departure"
-#redbubble = "https://www.redbubble.com/people/zlsa/works/26218790-heart-of-gold-performing-its-trans-mars-injection-burn"
+redbubble = "https://www.redbubble.com/people/zlsa/works/41013640-xon-wasp-departing-venalis-station"
 
 +++
 
