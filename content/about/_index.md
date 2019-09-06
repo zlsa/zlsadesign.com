@@ -4,13 +4,13 @@ date = "2016-12-15"
 categories = ["Meta"]
 +++
 
-I'm [Jon Ross](/contact/), and I make
+I'm [Jon Ross](/contact/), 3D artist and software engineer, and I make
 [infographics](/infographic/),
-[renders of rockets](/img/post/spacex/fh-launch.jpg) and
-[spacecraft](/img/post/spacex/red-dragon-landing.jpg), and
+[spaceflight](/img/post/spacex/fh-launch.jpg) and
+[spacecraft](/img/post/spacex/red-dragon-landing.jpg) art, and
 [software](http://github.com/zlsa/).
 
-My email address is [jonross.zlsa@gmail.com](mailto:jonross.zlsa@gmail.com).
+You can find me online at [@zlsadesign](https://twitter.com/zlsadesign), or email me at [jonross.zlsa@gmail.com](mailto:jonross.zlsa@gmail.com).
 
 <!--more-->
 
