@@ -142,7 +142,7 @@ The docking bay only had enough ports for six ships the size of the _Liberator_,
 I didn't want to stay for a minute longer than I had to, but I needed to keep up my reputation until the very end.
 The Interstellar Union was watching and waiting, and so was Sanctuary Port.
 
-My pilot and I were sitting at of the simulated outdoor areas, waiting for the cargo handlers to finish loading the _Liberator_.
+My pilot and I were sitting at one of the simulated outdoor areas, waiting for the cargo handlers to finish loading the _Liberator_.
 There were plants here, engineered to survive the low gravity and synthetic light.
 The greenery around the table wasn't as impressive as some planetside ports I'd been to as an emissary for the Interstellar Union, but it was perfectly serviceable for a quick chat with my pilot.
 
