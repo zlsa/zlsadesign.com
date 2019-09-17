@@ -12,6 +12,8 @@ tags = [
     "vr"
 ]
 
+summary = "A short guide, explaining how to build an Unreal Engine 4 game for the Oculus Quest, on Linux."
+
 +++
 
 First off, a word of warning. Building for the Oculus Quest on Linux
