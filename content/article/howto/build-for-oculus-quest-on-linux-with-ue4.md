@@ -4,6 +4,8 @@ title = "Building for Oculus Quest on Linux with UE4"
 
 date = "2019-09-08"
 
+draft = true
+
 categories = ["UE4", "VR"]
 tags = [
     "linux",
