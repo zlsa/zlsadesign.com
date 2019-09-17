@@ -6,6 +6,9 @@ draft = true
 
 date = "2018-03-29"
 
+story = true
+serif = true
+
 categories = ["writing"]
 
 tags = [
@@ -16,6 +19,7 @@ tags = [
      ]
 
 [hero]
+background = "none"
 #background = "/hero/infographics.jpg"
 
 +++
