@@ -346,7 +346,7 @@ Our velocity relative to local space will only be a few kilometers per second, b
 ```
 ! Power critical. Reactor overdrive engaged.
 
-! Jump drive capacitors: 83mWh remaining.
+! Jump drive capacitors: 83MWh remaining.
   Remaining time: 15 seconds.
   Best time to zero energy: 1 minute.
   Prepare for jump drive failure.
@@ -364,6 +364,7 @@ Our velocity relative to local space will only be a few kilometers per second, b
   Estimated exit velocity: 1600m/s relative to nearest body.
 
 ! Reactor radiators fused. Cooling performance degraded beyond repair.
+! Reactor safety critical.
   Emergency shutdown of reactor.
 
 Primary computer: shutting down at [3238-8-30 11:03:22.498]
@@ -371,20 +372,34 @@ Primary computer: shutting down at [3238-8-30 11:03:22.498]
 
 -- Log files recovered from the remains of _Hipparchus_, a medium-sized freighter.
 
-The cracked edges of the gaping hole in the alon dome glittered in the pale light of the distant star.
-The dome had finally failed a decade after the mining outpost was abandoned, having fallen victim to the vicious thermal cycles of the airless moon.
+The cracked edges of the gaping hole in the alon dome glitter brightly in the pale light of the distant star.
+The dome finally failed a decade after the mining outpost was abandoned, falling victim to the vicious thermal cycles of the airless moon.
 
-The outpost's power systems were offline, but the cameras were still intact, albeit not recording.
-If they had, they would have seen the dot appear in the sky, the blue plume of a hydrogen engine burning hard.
-Somehow, the _Hipparchus_ had survived the drop into normal space.
-With the reactor offline, the backup batteries could only sustain the primary engines for less than ten minutes.
-
-A rutile deposit had been discovered here, and the settlers of the nearby planet had set up a rudimentary mining outpost.
-But then the rutile had been depleted, and the two dozen miners had been taken back, leaving the outpost behind.
+A rutile deposit had been discovered here, twenty years ago, and the settlers of a nearby star system had set up a rudimentary mining outpost.
+For a decade, they had mined the precious mineral, shipping hundreds of thousands of tons back home aboard massive cargo ships.
+But then the rutile had been depleted, and the two dozen miners had been taken back to their home planet, leaving the outpost behind, the sole structure in the entire system.
 It wasn't economically viable to recover the structure or the equipment inside, so it was left behind.
 The only part they brought with them was the nuclear reactor; those were worth far too much to just abandon willy-nilly.
 They left behind the backup solar-thermal plant; it produced only a fraction of the power, and wasn't worth recovering.
 The cameras of the outpost watched as the last ship lifted off, the star's light glinting off the hull, then disappearing as the ship switched to hyperspace.
+
+The outpost's cameras were still intact, but the power grid had been taken offline after the departure of the last ship, and the cameras weren't recording.
+If they were, they would have seen the white dot appear in the sky above, flaring out into the wide blue plume of a hydrogen engine burning hard.
+
+Somehow, the _Hipparchus_ had survived the drop into normal space.
+In a massive stroke of luck, it was traveling slow enough to drop into normal space with G-forces low enough to be survivable
+The hull had been compressed by almost a foot, and the crew compartment bulkhead was warped out of shape.
+But the structure held, and the _Hipparchus_ was still spaceworthy.
+
+The captain of the _Hipparchus_ regained consciousness first.
+Of the entire crew, the captain was the most used to high G-forces, having flown high-performance racing ships as a child.
+The captain glanced through the ship logs, 6
+
+With the reactor offline, the backup batteries could only power the life support and distress beacon for about a week.
+It was designed to maintain the ship's atmosphere while rescue ships zeroed in on the beacon.
+There was no use for that in an abandoned system.
+Once the batteries ran out, there was no chance of rescue or survival, especially in deep space.
+
 
 <!--
 Rather than put two doors on the spacecraft, the engineers at Xon came up with a smart solution.
