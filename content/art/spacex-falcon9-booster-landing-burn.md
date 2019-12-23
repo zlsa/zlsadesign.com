@@ -19,7 +19,7 @@ tags = [
 
 [art]
 image = "spacex-falcon9-booster-landing-burn"
-#redbubble = "https://www.redbubble.com/people/zlsa/works/"
+redbubble = "https://www.redbubble.com/people/zlsa/works/43426258-spacex-falcon-9-landing-burn"
 
 +++
 
@@ -57,8 +57,8 @@ The grid fins are fully rigged as well, and can open, close, and pivot.
 
 The HDRI I used was found at [HDRIHaven](https://hdrihaven.com/). Their HDRIs are awesome; go check them out!
 
-Let me know what you think about this piece on [Twitter](https://twitter.com/zlsadesign/) and [ArtStation](https://www.artstation.com/artwork/9enkmy).
-And if you'd like this as a poster, check it out on [RedBubble](https://www.redbubble.com/people/zlsa/works/).
+Let me know what you think about this piece on [Twitter](https://twitter.com/zlsadesign/status/1209222110385557504) and [ArtStation](https://www.artstation.com/artwork/9enkmy).
+And if you'd like this as a poster, check it out on [RedBubble](https://www.redbubble.com/people/zlsa/works/43426258-spacex-falcon-9-landing-burn).
 I highly appreciate all comments and critiques.
 Thank you for checking this out!
 
