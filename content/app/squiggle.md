@@ -5,6 +5,8 @@ categories = ["design", "programming", "ios"]
 
 date = "1970-01-01"
 
+draft = true
+
 tags = ["squiggle", "apple-ios", "apple-iphone", "apple-ipad"]
 
 [app]

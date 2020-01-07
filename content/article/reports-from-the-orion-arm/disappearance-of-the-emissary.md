@@ -370,7 +370,7 @@ Our velocity relative to local space will only be a few kilometers per second, b
 Primary computer: shutting down at [3238-8-30 11:03:22.498]
 ```
 
--- Log files recovered from the remains of _Hipparchus_, a medium-sized freighter.
+-- Log files recovered from the remains of _Hipparchus_, a medium-sized interstellar freighter.
 
 The cracked edges of the gaping hole in the alon dome glitter brightly in the pale light of the distant star.
 The dome finally failed a decade after the mining outpost was abandoned, falling victim to the vicious thermal cycles of the airless moon.
@@ -387,19 +387,23 @@ The outpost's cameras were still intact, but the power grid had been taken offli
 If they were, they would have seen the white dot appear in the sky above, flaring out into the wide blue plume of a hydrogen engine burning hard.
 
 Somehow, the _Hipparchus_ had survived the drop into normal space.
-In a massive stroke of luck, it was traveling slow enough to drop into normal space with G-forces low enough to be survivable
+In a massive stroke of luck, it was traveling slow enough to drop into normal space with G-forces low enough to be survivable.
 The hull had been compressed by almost a foot, and the crew compartment bulkhead was warped out of shape.
-But the structure held, and the _Hipparchus_ was still spaceworthy.
+But the structure held, and the _Hipparchus_ was still spaceworthy, if only for a few more minutes.
 
 The captain of the _Hipparchus_ regained consciousness first.
 Of the entire crew, the captain was the most used to high G-forces, having flown high-performance racing ships as a child.
-The captain glanced through the ship logs, 6
+The first thing he felt was the engine burn that pushed him into his seat.
+He pulled up the engine performance screen and was greeted with pages of flashing alarms.
+With the reactor offline, the engines were running directly off the jump drive capacitor bank.
+They only had enough energy stored for a few more minutes of this hard burn.
+Once the capacitors ran dry, the ship wouldn't have any thrust remaining and would continue on its current trajectory forever.
 
-With the reactor offline, the backup batteries could only power the life support and distress beacon for about a week.
-It was designed to maintain the ship's atmosphere while rescue ships zeroed in on the beacon.
-There was no use for that in an abandoned system.
-Once the batteries ran out, there was no chance of rescue or survival, especially in deep space.
-
+The captain flipped to the targeting screen to identify the destination that the ship was targeting with its burn.
+It had located an abandoned mining outpost nearby, and more importantly, it was in the right direction.
+The ship's computer had automatically targeted the outpost landing pad and started the emergency landing burn.
+There would be enough energy in the capacitors to burn for a landing at the outpost, but the remaining energy wouldn't last very long running the life support and distress beacon.
+Once the capacitors ran out, there was no chance of rescue or survival, especially if the rest of the system was abandoned.
 
 <!--
 Rather than put two doors on the spacecraft, the engineers at Xon came up with a smart solution.
