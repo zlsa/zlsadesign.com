@@ -6,7 +6,6 @@ summary = "I was seven years old when my father died. He was one of the first na
 
 date = "2020-02-14"
 lastmod = "2020-02-14"
-
 draft = true
 
 story = true
@@ -64,7 +63,8 @@ Mars Base Alpha ran at a full 1 atmosphere; with the underground tunnels, there 
 Now that I was through puberty, my body wouldn't change much for the next few decades, so I had finally received my own custom-made mechanical counterpressure suit.
 It was capable of holding the equivalent of one full atmosphere purely mechanically, so I didn't need to go through the lengthy overnight pre-breathing ritual that slowly lowered the pressure in the airlock to prepare my body for the older low-pressure, 100% oxygen atmosphere EVA suits.
 
-This excursion made me a bit nervous, and not without reason. My suit was custom-fitted to me only, and while I'd tested it before, today would be its first major trip on the surface.
+This excursion made me a bit nervous, and not without reason.
+My suit was custom-fitted to me only, and while I'd tested it before, today would be its first major trip on the surface.
 
 ## This section is WIP
 
