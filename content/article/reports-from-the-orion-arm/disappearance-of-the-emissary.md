@@ -382,7 +382,6 @@ It wasn't economically viable to recover the structure or the equipment inside, 
 The only part they brought with them was the nuclear reactor; those were worth far too much to just abandon willy-nilly.
 They left behind the backup solar-thermal plant; it produced only a fraction of the power, and wasn't worth recovering.
 The cameras of the outpost watched as the last ship lifted off, the star's light glinting off the hull, then disappearing as the ship switched to hyperspace.
-
 The outpost's cameras were still intact, but the power grid had been taken offline after the departure of the last ship, and the cameras weren't recording.
 If they were, they would have seen the white dot appear in the sky above, flaring out into the wide blue plume of a hydrogen engine burning hard.
 

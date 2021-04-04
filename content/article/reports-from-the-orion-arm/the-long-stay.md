@@ -30,26 +30,29 @@ That was a very bad sign. The emergency lighting was supposed to kick in wheneve
 I pulled at my harness, and it was disturbingly loose, loose enough for me to push off my chest without unbuckling it.
 
 I felt ahead of me for the handhold and pulled myself upright, wincing at the sharp pain in my back and shoulder.
-The floor wasn't flat, and there was some piddling amount of gravity; as a gravity-raised child, I wasn't too skilled with estimating it, but I'd peg it at less than a tenth.
-The flat soles of my velcro boots tugged at my feet as I made my way towards the airlock.
-I pulled open the spacesuit cabinet by feel and tugged the portable torch out of its slot, then flicked it on.
+The floor wasn't flat, and there was some piddling amount of gravity; I'd been brought up on a 1G planet, and I wasn't too skilled with estimating it, but I'd peg it at less than a tenth.
+The flat soles of my velcro boots tugged at my feet as I carefully made my way towards the airlock.
+The closet next to the airlock contained a couple of spacesuits, a first-aid kit, and a flashlight.
+I pulled on the glow-in-the-dark latch of the spacesuit cabinet and tugged the portable torch out of its slot, then flicked it on.
 
-The bridge was a mess.
+The flat white light shone on the room, illuminating the bridge.
+It was a mess.
 Displays hung down from their mounts, some torn clean off and strewn about the floor.
 The ceiling had a huge crack, running from the front to the back of the bridge.
 The never-ending faint clicking of the rattlers, designed to warn us when the air recirculation system failed, finally silent.
 I was lucky to have been in the bridge.
-The passenger decks were underneath us, and if the bridge was this messed up, the passenger decks were sure to have decompressed.
+The passenger decks were underneath us, and if the bridge was this messed up, the passenger decks were sure to have decompressed, or worse.
+The passenger decks in these low-cost haulers were usually just specialized cargo containers strapped into the cargo bay, and they'd be the first part of the ship to hit the ground.
 
 I picked my way through the debris of the bridge, checking for any survivors.
 Many of the seats had been broken, their supporting struts snapped in two, torn wires dangling out.
 Some of the crew had been unlucky enough to be impaled by their seat struts.
-Most seemed to have died from the crash landing, and it was probably a merciful death.
+Most seemed to have died from the crash landing, and it was probably better than the alternative I faced.
 Nothing good could come of being stranded on a barren planet without a ship.
 
 None alive. That was unfortunate, but not unexpected.
 Bar none, the crew were bred and raised in space.
-Their bones were brittle, their muscles weaker.
+Their bones were brittle and their muscles were weak, compared to a planet-born, anyway.
 The G-force from the landing probably broke half of their ribs, not to mention their spines.
 Their bodies were all cold, their lips white.
 
